@@ -1,5 +1,85 @@
 [
   {
+    "timestamp": "2026-09-25T20:00:00+00:00",
+    "header": "Friday, September 25, 2026's Report",
+    "headline": "On Friday, September 25, 2026, U.",
+    "summary": "On Friday, September 25, 2026, U.S. stocks rose to close out a volatile week on a positive note, helped by a cooldown in oil prices on hopes for progress in U.S.-Iran negotiations and continued AI-related optimism. The bond selloff that had pressured markets earlier in the week paused, allowing equities to rebound and finish the week higher.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "51,828.62",
+          "change": "+478.64 points",
+          "pct": "+0.93%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,743.41",
+          "change": "+39.28 points",
+          "pct": "+0.51%",
+          "notes": "This pulled the index to within about 0.7% of its all-time high from mid-August and snapped a three-day losing streak."
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "27,068.72",
+          "change": "+129.34 points",
+          "pct": "+0.48%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "",
+          "change": "",
+          "pct": "",
+          "notes": "approximately 2,837.55, up about 0.1%."
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "Seven of the 11 S&P 500 sectors finished higher.",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "The intense selloff in Treasuries took a breather. The 10-year Treasury yield pulled back slightly after hitting multi-year highs near 5.22–5.23% the prior day, settling around 5.17–5.18%. The 30-year yield hovered near 5.5% (its highest levels since 2004). The pause in rising yields provided relief to equity valuations, though markets continued to price in a meaningful chance of further Federal Reserve rate hikes amid lingering inflation concerns tied to energy prices and strong economic data.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices retreated from recent highs on reports that U.S. and Iranian negotiators were exploring a phased deal that could reopen the Strait of Hormuz. Brent crude fell roughly 2–2.8% (settling in the high $90s to around $104 range across reports). WTI also declined. Gold was relatively steady to slightly lower amid the stronger dollar and shifting risk sentiment.",
+      "oil": "WTI also declined. Brent crude fell roughly 2–2.8% (settling in the high $90s to around $104 range across reports).",
+      "gold": "Gold was relatively steady to slightly lower amid the stronger dollar and shifting risk sentiment."
+    },
+    "currencies": {
+      "summary": "The U.S. dollar remained firm near multi-month highs, supported by the still-elevated yields."
+    },
+    "global_markets": {
+      "asia": "Mixed. Japan’s Nikkei 225 rose about 1.3% (to around 66,364), extending gains, while Hong Kong’s Hang Seng fell roughly 1%. Mainland China, South Korea, and Taiwan markets were closed for holidays. Australia’s ASX 200 declined modestly.",
+      "europe": "Mostly higher. The DAX, CAC 40, and FTSE 100 posted gains of roughly 0.5–1% as the bond pressure eased and oil retreated.",
+      "summary": ""
+    },
+    "key_drivers": [
+      {
+        "title": "Easing oil prices and Middle East diplomacy",
+        "text": "Reports of potential progress toward a U.S.-Iran arrangement involving the Strait of Hormuz helped reverse some of the week’s energy-driven inflation fears and supported equities."
+      },
+      {
+        "title": "AI enthusiasm",
+        "text": "Fresh product announcements and deals (Microsoft Copilot upgrades, Akamai-Anthropic agreement) boosted technology stocks and overall risk appetite."
+      },
+      {
+        "title": "Pause in the bond selloff",
+        "text": "After yields reached multi-decade highs earlier in the week on strong PMI data and hawkish rate expectations, the stabilization on Friday reduced pressure on stocks."
+      },
+      {
+        "title": "Trump-Xi summit wrap-up",
+        "text": "The ongoing state visit continued with positive optics (including a tea session and National Archives visit). President Trump described meetings as productive and indicated a possible November follow-up trip to China; the earlier two-month trade truce extension remained a modest stabilizer."
+      }
+    ],
+    "overall_tone": "A constructive close to a turbulent week. Equities showed resilience despite elevated yields and geopolitical uncertainty, supported by cooling oil prices, AI momentum, and solid underlying economic growth. Markets remained attentive to inflation signals, Fed policy, and further developments in the Middle East and U.S.-China relations."
+  },
+  {
     "timestamp": "2026-09-24T20:00:00+00:00",
     "header": "Thursday, September 24, 2026's Report",
     "headline": "On Thursday, September 24, 2026, global financial markets experienced a mixed-to-slightly lower session dominated by a continued bond selloff (pushing yields to multi-decade highs), rising oil prices on Middle East geopolitical tensions, and cautious reactions to the Trump-Xi summit.",
