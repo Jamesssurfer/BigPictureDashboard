@@ -260,8 +260,17 @@
             <span class="mono text-[13px] text-[var(--muted)]">${formatTimestamp(item.timestamp)} UTC</span>
           </div>
           <div class="text-[19px] font-semibold leading-snug">${escapeHtml(item.header)}</div>
-          ${item.headline ? `<div class="text-[14px] text-[var(--muted)] mt-1 leading-relaxed">${escapeHtml(item.headline)}</div>` : ''}
-          ${item.summary && item.summary !== item.headline ? `<div class="text-[13px] text-[var(--muted)] mt-2 leading-relaxed opacity-90">${escapeHtml(item.summary)}</div>` : ''}
+          ${(() => {
+            // Prefer full opening summary. Fall back to headline only when
+            // summary is empty. Avoids double-print when headline is just the
+            // first sentence of the same paragraph (and the old U.S. truncation).
+            const body = (item.summary && item.summary.trim())
+              ? item.summary
+              : (item.headline || '');
+            return body
+              ? `<div class="text-[14px] text-[var(--muted)] mt-1 leading-relaxed">${escapeHtml(body)}</div>`
+              : '';
+          })()}
 
           ${indicesHTML(us.indices)}
           ${metaChipsHTML(us)}
