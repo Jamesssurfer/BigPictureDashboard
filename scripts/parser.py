@@ -97,13 +97,21 @@ def _opening_summary(text):
 
 
 def _headline_from_summary(summary):
+    """First sentence, without breaking on abbreviations like U.S. / U.K. / e.g."""
     if not summary:
         return ""
-    # First sentence or first ~120 chars
-    m = re.match(r'^([^.!?]+[.!?])', summary)
+    # Protect common abbreviations so their periods don't end the sentence
+    protected = summary
+    for abbr in ("U.S.", "U.K.", "U.N.", "E.U.", "e.g.", "i.e.", "vs.", "Mr.", "Mrs.", "Ms.", "Dr."):
+        protected = protected.replace(abbr, abbr.replace(".", "\uff0e"))  # fullwidth dot
+    m = re.match(r'^([^.!?]+[.!?])', protected)
     if m and len(m.group(1)) > 30:
-        return m.group(1).strip()
-    return summary[:120].rstrip() + ("..." if len(summary) > 120 else "")
+        return m.group(1).replace("\uff0e", ".").strip()
+    # Fallback: first ~140 chars at a word boundary
+    if len(summary) <= 140:
+        return summary
+    cut = summary[:140].rsplit(" ", 1)[0]
+    return cut.rstrip() + "..."
 
 
 def _section(text, heading_pattern):
