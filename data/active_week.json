@@ -1,5 +1,91 @@
 [
   {
+    "timestamp": "2026-09-29T20:00:00+00:00",
+    "header": "Tuesday, September 29, 2026's Report",
+    "headline": "On Tuesday, September 29, 2026, U.S. stocks closed slightly lower in a choppy session as long-term Treasury yields remained elevated near multi-decade highs.",
+    "summary": "On Tuesday, September 29, 2026, U.S. stocks closed slightly lower in a choppy session as long-term Treasury yields remained elevated near multi-decade highs. Soft consumer confidence data and ongoing geopolitical uncertainty added to caution, even as oil prices retreated from recent highs.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "51,349.92",
+          "change": "-131.59 points",
+          "pct": "-0.26%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,670.84",
+          "change": "-12.85 points",
+          "pct": "-0.17%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "26,797.54",
+          "change": "-22.84 points",
+          "pct": "-0.08%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "",
+          "change": "",
+          "pct": "",
+          "notes": "approximately 2,807.92, down about 0.4%."
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "Seven of the 11 S&P 500 sectors declined.",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Longer-dated Treasury yields continued to climb or held near recent peaks. The 10-year yield rose to around 5.25–5.29% (highest levels since 2007), and the 30-year yield reached approximately 5.62% (highest since 2002). Shorter-term yields were mixed to slightly lower. The elevated yields reflected persistent inflation concerns and expectations for further Federal Reserve tightening, weighing on equity valuations.",
+      "yields": [
+        "10-year: 5.25–5.29%"
+      ],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices declined after the prior day’s gains. Brent crude fell about 1.7% (settling near $96), while WTI also moved lower (reports cited levels around the high $80s to low $90s). The pullback followed signs of improved Middle East export flows (including Saudi pipeline restorations) and comments suggesting talks could continue. Gold recovered some ground after recent sharp losses.",
+      "oil": "Brent crude fell about 1.7% (settling near $96), while WTI also moved lower (reports cited levels around the high $80s to low $90s).",
+      "gold": "Gold recovered some ground after recent sharp losses."
+    },
+    "currencies": {
+      "summary": "The U.S. dollar strengthened modestly, supported by the yield environment."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "Asian markets were mixed to lower. European indexes finished roughly flat to slightly lower. Overall risk appetite remained cautious amid the U.S. bond market moves and upcoming data."
+    },
+    "key_drivers": [
+      {
+        "title": "Elevated bond yields",
+        "text": "The continued rise in long-term yields (especially the 30-year) kept pressure on stocks, reinforcing concerns about higher-for-longer interest rates and the cost of capital."
+      },
+      {
+        "title": "Economic data",
+        "text": "The Conference Board’s consumer confidence index plunged to 81.9 in September (lowest in nearly 12½ years) from a revised 88.6 in August, highlighting household concerns about inflation and the outlook. August JOLTS job openings fell to 7.079 million (below expectations)."
+      },
+      {
+        "title": "Oil and geopolitics",
+        "text": "A retreat in crude prices provided some relief after Monday’s surge, aided by reports of recovering Middle East exports, though the broader U.S.-Iran situation remained unresolved."
+      },
+      {
+        "title": "Fed and policy focus",
+        "text": "Investors monitored comments from Fed officials and looked ahead to key data (including PCE inflation) for clues on the rate path. Markets continued to price meaningful odds of further hikes."
+      },
+      {
+        "title": "AI and company news",
+        "text": "Positive developments around Anthropic valuation reports and AMD’s acquisition activity offered selective support in technology."
+      }
+    ],
+    "overall_tone": "Cautious and range-bound. Equities edged lower for a second consecutive session under the weight of higher long-term yields, even as softer oil prices and some AI optimism limited the downside. Attention remained on inflation data, labor market indicators, and any further developments in energy markets or Middle East diplomacy."
+  },
+  {
     "timestamp": "2026-09-28T20:00:00+00:00",
     "header": "Monday, September 28, 2026's Report",
     "headline": "On Monday, September 28, 2026, U.S. stocks declined as rising Treasury yields and a rebound in oil prices weighed on sentiment.",
