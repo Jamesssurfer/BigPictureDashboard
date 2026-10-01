@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-10-01T20:00:00+00:00",
+    "header": "Thursday, October 1, 2026's Report",
+    "headline": "On Thursday, October 1, 2026, U.S. stocks opened the new month and fourth quarter with modest gains in a volatile session.",
+    "summary": "On Thursday, October 1, 2026, U.S. stocks opened the new month and fourth quarter with modest gains in a volatile session. Treasury yields surged to multi-decade highs early in the day before retreating, allowing equities to reverse earlier losses and close higher. Strength in technology and software helped offset pressure from elevated borrowing costs and rising oil prices.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "50,926.56",
+          "change": "+20.51 points",
+          "pct": "+0.04%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,666.45",
+          "change": "+14.91 points",
+          "pct": "+0.2%",
+          "notes": ", snapping a three-day losing streak."
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "26,871.60",
+          "change": "+10.53 points",
+          "pct": "+0.04%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "",
+          "change": "",
+          "pct": "",
+          "notes": "approximately 2,806.63, up about 0.3%."
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "Rate-sensitive sectors faced pressure earlier when yields spiked.",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "The 10-year Treasury yield hit an intraday high near 5.34%—its highest level since 2002—before pulling back later in the session to end lower. The 30-year yield also reached multi-decade highs intraday before easing. The early selloff extended a multi-week rise in long-term yields, but buyers stepped in during the afternoon, providing relief to equities. Shorter-term yields also declined from session highs.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices rose sharply. WTI climbed (settling near $92–$93), and Brent jumped above $100–$102 amid reports of China suspending oil-product exports and ongoing Middle East tensions. Gold gained modestly.",
+      "oil": "WTI climbed (settling near $92–$93), and Brent jumped above $100–$102 amid reports of China suspending oil-product exports and ongoing Middle East tensions.",
+      "gold": "Gold gained modestly."
+    },
+    "currencies": {
+      "summary": "The U.S. dollar strengthened, with the euro falling to multi-month lows against it."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "European stocks declined sharply (London down ~1.7%, Paris ~1.6%, Frankfurt ~1%), pressured by their own bond-market moves. Asian markets were mixed to higher in some cases (notably Japan on tech strength)."
+    },
+    "key_drivers": [
+      {
+        "title": "Bond market volatility",
+        "text": "Yields extended their recent climb to 24-year highs early on before reversing, creating a tug-of-war for stocks. The pullback in yields later in the day was a key catalyst for the equity rebound."
+      },
+      {
+        "title": "Corporate results",
+        "text": "Micron’s strong earnings and raised outlook, along with Accenture’s beat and guidance, boosted technology and software sentiment at the start of the new quarter."
+      },
+      {
+        "title": "Economic data",
+        "text": "Initial jobless claims remained low at 197,000 (fourth consecutive week of declines), signaling continued labor-market resilience. ISM manufacturing data showed ongoing expansion but with elevated prices-paid readings that kept inflation concerns alive."
+      },
+      {
+        "title": "Oil and geopolitics",
+        "text": "Higher crude prices, linked to Middle East developments and Chinese export curbs, added to inflation worries and supported the early rise in yields."
+      },
+      {
+        "title": "New quarter dynamics",
+        "text": "Investors began the fourth quarter focused on upcoming nonfarm payrolls data and the broader path of interest rates amid still-elevated long-term yields."
+      }
+    ],
+    "overall_tone": "Cautiously positive to start October. Equities managed modest gains after yields retreated from extreme levels, with AI-related and software strength providing support. Markets remained sensitive to bond-market swings, oil prices, and the upcoming employment report as key near-term catalysts."
+  },
+  {
     "timestamp": "2026-09-30T20:00:00+00:00",
     "header": "Wednesday, September 30, 2026's Report",
     "headline": "On Wednesday, September 30, 2026, U.S. stocks finished mixed in a volatile session that marked the end of the month and the third quarter.",
@@ -330,87 +414,5 @@
       }
     ],
     "overall_tone": "A constructive close to a turbulent week. Equities showed resilience despite elevated yields and geopolitical uncertainty, supported by cooling oil prices, AI momentum, and solid underlying economic growth. Markets remained attentive to inflation signals, Fed policy, and further developments in the Middle East and U.S.-China relations."
-  },
-  {
-    "timestamp": "2026-09-24T20:00:00+00:00",
-    "header": "Thursday, September 24, 2026's Report",
-    "headline": "On Thursday, September 24, 2026, global financial markets experienced a mixed-to-slightly lower session dominated by a continued bond selloff (pushing yields to multi-decade highs), rising oil prices on Middle East geopolitical tensions, and cautious reactions to the Trump-Xi summit.",
-    "summary": "On Thursday, September 24, 2026, global financial markets experienced a mixed-to-slightly lower session dominated by a continued bond selloff (pushing yields to multi-decade highs), rising oil prices on Middle East geopolitical tensions, and cautious reactions to the Trump-Xi summit. U.S. equities ended roughly flat after volatile trading and late rebounds, while bonds, the dollar, and energy markets moved more decisively.",
-    "us_equities": {
-      "indices": [
-        {
-          "name": "Dow Jones Industrial Average",
-          "value": "51,349.98",
-          "change": "-161.61 points",
-          "pct": "-0.31%",
-          "notes": ""
-        },
-        {
-          "name": "S&P 500",
-          "value": "7,704.13",
-          "change": "-1.90 points",
-          "pct": "-0.02%",
-          "notes": "It was the third consecutive down day and remained about 1.2% below its record close from mid-August."
-        },
-        {
-          "name": "Nasdaq Composite",
-          "value": "26,939.37",
-          "change": "+3.34 points",
-          "pct": "+0.01%",
-          "notes": ""
-        },
-        {
-          "name": "Russell 2000",
-          "value": "2,835.57",
-          "change": "",
-          "pct": "-0.11%",
-          "notes": ""
-        }
-      ],
-      "volatility": "Volatility rose modestly (VIX up ~3.23% to 15.67).",
-      "breadth": "Breadth was weak, with more decliners than advancers.",
-      "sectors": "Sectors were mixed: Communication Services gained (helped by Meta), while Materials, Utilities, Industrials, and some Technology names lagged.",
-      "notable_movers": [
-        "Meta Platforms rising ~4.5% after unveiling a new handheld AI gadget.",
-        "Oracle fell ~3.5% on reports of a force majeure notice related to a data center project. Nvidia was a modest drag."
-      ],
-      "other": "Weekly jobless claims fell to 197,000 (near multi-decade lows), signaling a still-tight labor market."
-    },
-    "bonds": {
-      "summary": "The global bond rout deepened. The U.S. 10-year Treasury yield climbed to levels not seen since 2007 (reports cited peaks around 5.16–5.22%, with closes/settlements in the 5.11–5.20% range depending on the source). The 30-year yield hit its highest since 2004 (around 5.45–5.50%). Weak demand at Treasury auctions (including a soft 7-year or prior 5-year) amplified the move. Higher yields pressured equity valuations, especially rate-sensitive growth stocks, and raised expectations for further Fed tightening (markets priced elevated odds of additional hikes). European yields (German, French) also reached multi-year highs.",
-      "yields": [
-        "10-year: 5.16–5.22%",
-        "30-year: 5.45–5.50%"
-      ],
-      "notes": ""
-    },
-    "commodities": {
-      "summary": "Oil surged on geopolitical risks tied to the ongoing U.S.-Iran conflict (now roughly 7 months old) and stalled diplomacy at the UN General Assembly, plus reports of Houthi activity. WTI rose ~2.7–3.2% (settling around $94.61–$95.13 in various reports). Brent climbed ~2–3.4% (settling near $100–$107, with some figures around $106.60). Gold slipped ~0.35–1% (around $4,280–$4,303) as higher yields and a stronger dollar outweighed safe-haven demand.",
-      "oil": "WTI rose ~2.7–3.2% (settling around $94.61–$95.13 in various reports). Brent climbed ~2–3.4% (settling near $100–$107, with some figures around $106.60).",
-      "gold": "Gold slipped ~0.35–1% (around $4,280–$4,303) as higher yields and a stronger dollar outweighed safe-haven demand."
-    },
-    "currencies": {
-      "summary": "The U.S. dollar strengthened to a multi-month high (Dollar Index around 101+), with USD/JPY approaching 159. This pressured some emerging-market currencies."
-    },
-    "global_markets": {
-      "asia": "Mixed to lower. Shanghai Composite fell ~1.2% (biggest one-day drop in a month); Hang Seng down ~0.3%. Nikkei 225 rose ~0.8% (reopening after a holiday, aided by a weaker yen and AI-related stocks). MSCI Asia ex-Japan declined ~0.9%.",
-      "europe": "Mostly lower. FTSE 100 down ~0.2–0.3%; CAC 40 and DAX declined ~0.5–0.6%. Higher yields and oil weighed on sentiment.",
-      "summary": ""
-    },
-    "key_drivers": [
-      {
-        "title": "Bond selloff and inflation/rate concerns",
-        "text": "Stronger recent PMI data, tight labor market, elevated oil, and hawkish Fed comments (including from Governor Williams that another hike this year was reasonable) fueled the move higher in yields. This was the dominant pressure on equities."
-      },
-      {
-        "title": "Middle East geopolitics and oil",
-        "text": "Uncertainty around the U.S.-Iran conflict and Strait of Hormuz risks drove oil higher. Midday reports of possible phased diplomatic paths (reopening the Strait in exchange for easing the blockade) helped equities rebound from lows, though talks remained fragile."
-      },
-      {
-        "title": "Trump-Xi summit",
-        "text": "Chinese President Xi’s visit to Washington (first in years) produced a two-month extension of the U.S.-China trade truce (to early January 2027). Markets viewed this as stabilizing but short of a major breakthrough. Discussions covered trade, AI, Taiwan, and Iran; tech CEOs attended related events. Chinese equities sold off on tempered expectations."
-      }
-    ],
-    "overall_tone": "Risk-off in bonds and cautious in equities amid higher yields and energy prices, partially offset by late-day hope around diplomacy. Markets remained sensitive to inflation, Fed policy, and geopolitical developments. Looking ahead (as of the close), focus shifted to upcoming data such as PCE inflation and further Fed signals."
   }
 ]
