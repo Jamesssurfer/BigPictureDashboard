@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-10-05T20:00:00+00:00",
+    "header": "Monday, October 5, 2026's Report",
+    "headline": "On Monday, October 5, 2026, U.S. stocks rose, with the Nasdaq Composite reaching a new record high and the S&P 500 closing within 0.",
+    "summary": "On Monday, October 5, 2026, U.S. stocks rose, with the Nasdaq Composite reaching a new record high and the S&P 500 closing within 0.3% of its all-time high. Megacap technology and growth stocks led the advance, offsetting pressure from still-elevated Treasury yields. Falling oil prices provided additional support.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "51,267.90",
+          "change": "+90.94 points",
+          "pct": "+0.2%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,773.95",
+          "change": "+51.23 points",
+          "pct": "+0.7%",
+          "notes": ", approaching its summer record high."
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "27,477.31",
+          "change": "+286.45 points",
+          "pct": "+1.1%",
+          "notes": ", setting a fresh record."
+        },
+        {
+          "name": "Russell 2000",
+          "value": "",
+          "change": "",
+          "pct": "",
+          "notes": "approximately 2,847.14, up about 0.5%."
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "Most S&P 500 sectors rose, led by materials and communication services.",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Treasury yields remained near multi-year highs and edged higher on the day. The 10-year yield rose to approximately 5.31%, while the 30-year also advanced. Despite the soft September jobs report the previous Friday (which had reduced October rate-hike odds), longer-term yields stayed elevated amid ongoing inflation, debt-supply, and growth considerations. Market pricing continued to show low odds of an October Fed hike.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices declined. Brent crude settled around $100.3 (down nearly 2%), and WTI fell to the high $89 area. The drop followed reports of increased Middle East crude exports and G7 commitments to release strategic fuel reserves (including diesel and crude). Gold was little changed to modestly higher.",
+      "oil": "Brent crude settled around $100.3 (down nearly 2%), and WTI fell to the high $89 area.",
+      "gold": "Gold was little changed to modestly higher."
+    },
+    "currencies": {
+      "summary": "The U.S. dollar strengthened, with the euro under pressure from European fiscal and political concerns."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "Asian markets were mixed to higher in some cases (Japan notably strong). European indexes were mixed amid ongoing bond-market volatility and fiscal worries in parts of the eurozone."
+    },
+    "key_drivers": [
+      {
+        "title": "Technology and M&A strength",
+        "text": "Megacap tech and software shares powered the rally. The Schneider Electric–PTC deal provided a clear catalyst for the software sector and broader risk appetite."
+      },
+      {
+        "title": "Elevated yields vs. growth narrative",
+        "text": "Long-term Treasury yields held near multi-decade highs, keeping rate-sensitive areas in check, but AI-related growth optimism and lower oil prices helped equities push higher."
+      },
+      {
+        "title": "Oil market relief",
+        "text": "Declining crude prices eased some inflation concerns after recent volatility tied to Middle East supply risks and earlier reserve-release discussions."
+      },
+      {
+        "title": "Policy and data backdrop",
+        "text": "Soft September payrolls data from the prior Friday continued to underpin lower near-term Fed hike expectations. Focus shifted toward upcoming Fed minutes, services PMI data, and the start of third-quarter earnings season."
+      },
+      {
+        "title": "Quiet broader session",
+        "text": "Outside of tech and deal-related moves, trading was relatively calm as investors awaited corporate results and further policy signals."
+      }
+    ],
+    "overall_tone": "Constructive and tech-led to start the week. The Nasdaq’s record close and the S&P 500’s approach to its all-time high reflected resilience in growth and AI-related names, even as elevated bond yields and residual geopolitical/oil uncertainty remained in the background. Markets looked ahead to earnings and Fed communications for the next catalysts."
+  },
+  {
     "timestamp": "2026-10-02T20:00:00+00:00",
     "header": "Friday, October 2, 2026's Report",
     "headline": "On Friday, October 2, 2026, U.S. stocks rose, with the Nasdaq Composite reaching a record high.",
@@ -336,87 +420,5 @@
       }
     ],
     "overall_tone": "Cautious and range-bound. Equities edged lower for a second consecutive session under the weight of higher long-term yields, even as softer oil prices and some AI optimism limited the downside. Attention remained on inflation data, labor market indicators, and any further developments in energy markets or Middle East diplomacy."
-  },
-  {
-    "timestamp": "2026-09-28T20:00:00+00:00",
-    "header": "Monday, September 28, 2026's Report",
-    "headline": "On Monday, September 28, 2026, U.S. stocks declined as rising Treasury yields and a rebound in oil prices weighed on sentiment.",
-    "summary": "On Monday, September 28, 2026, U.S. stocks declined as rising Treasury yields and a rebound in oil prices weighed on sentiment. The moves followed President Donald Trump’s weekend rejection of an Iranian proposal related to reopening the Strait of Hormuz, which revived geopolitical and inflation concerns after a more constructive close the prior Friday.",
-    "us_equities": {
-      "indices": [
-        {
-          "name": "Dow Jones Industrial Average",
-          "value": "51,481.51",
-          "change": "-347.11 points",
-          "pct": "-0.67%",
-          "notes": ""
-        },
-        {
-          "name": "S&P 500",
-          "value": "7,683.69",
-          "change": "-59.72 points",
-          "pct": "-0.77%",
-          "notes": "This erased recent progress and left the index further from its mid-August record high."
-        },
-        {
-          "name": "Nasdaq Composite",
-          "value": "26,820.38",
-          "change": "-248.34 points",
-          "pct": "-0.92%",
-          "notes": ""
-        },
-        {
-          "name": "Russell 2000",
-          "value": "",
-          "change": "",
-          "pct": "",
-          "notes": "approximately 2,817.91, down about 0.7%."
-        }
-      ],
-      "volatility": "Volatility rose (VIX climbed roughly 8% to around 16).",
-      "breadth": "",
-      "sectors": "Most sectors declined, with technology and communication services under pressure.",
-      "notable_movers": [],
-      "other": ""
-    },
-    "bonds": {
-      "summary": "Treasury yields extended their recent climb. The 10-year yield rose to around 5.23% (touching its highest levels since 2007), while the 30-year yield also advanced to multi-year highs (reports cited levels above 5.5%). The move reflected renewed inflation concerns from oil volatility and reinforced market pricing of potential further Federal Reserve rate hikes. Higher yields pressured equity valuations, particularly growth and rate-sensitive stocks.",
-      "yields": [
-        "10-year: 5.23%"
-      ],
-      "notes": ""
-    },
-    "commodities": {
-      "summary": "Oil prices rose after the U.S. rejection of Iran’s latest proposal on the Strait of Hormuz and related ceasefire terms (though further talks were expected). WTI settled higher (around $92.60–$93.37 range across reports), and Brent climbed (settling near $105). Gold fell sharply (around 4%, to the $4,145 area) as higher yields and a firmer dollar outweighed safe-haven demand.",
-      "oil": "WTI settled higher (around $92.60–$93.37 range across reports), and Brent climbed (settling near $105).",
-      "gold": "Gold fell sharply (around 4%, to the $4,145 area) as higher yields and a firmer dollar outweighed safe-haven demand."
-    },
-    "currencies": {
-      "summary": "The U.S. dollar strengthened modestly, supported by the rise in yields."
-    },
-    "global_markets": {
-      "asia": "",
-      "europe": "",
-      "summary": "Asian markets were mostly lower as the region returned from holiday closures, with technology shares under pressure. European indexes were mixed to slightly lower. Broader risk appetite was cautious amid the U.S. bond and oil moves."
-    },
-    "key_drivers": [
-      {
-        "title": "U.S.-Iran developments",
-        "text": "Trump’s rejection of Iran’s proposal over the weekend reversed some of the prior week’s diplomatic optimism, lifting oil prices and rekindling supply and inflation worries tied to the ongoing conflict."
-      },
-      {
-        "title": "Bond market pressure",
-        "text": "Yields resumed their climb toward multi-decade highs, increasing the cost of capital and weighing on equities after a brief pause late the prior week."
-      },
-      {
-        "title": "Company-specific news",
-        "text": "Nvidia’s large buyback provided a bright spot in tech, but broader AI-related and growth stocks faced headwinds from higher rates. Boeing’s regulatory setback and MongoDB’s leadership change added to the negative tone in specific names."
-      },
-      {
-        "title": "Upcoming data",
-        "text": "Markets looked ahead to labor market reports (including JOLTS) and the Fed’s preferred inflation gauge (PCE) later in the week."
-      }
-    ],
-    "overall_tone": "Risk-off to start the new week. Equities gave back some of the prior week’s gains as geopolitical uncertainty and higher yields returned to the forefront. Investor focus remained on oil supply risks, the path of interest rates, and any further developments in Middle East diplomacy."
   }
 ]

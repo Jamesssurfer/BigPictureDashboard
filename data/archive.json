@@ -1,6 +1,88 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-09-28T20:00:00+00:00",
+      "header": "Monday, September 28, 2026's Report",
+      "headline": "On Monday, September 28, 2026, U.S. stocks declined as rising Treasury yields and a rebound in oil prices weighed on sentiment.",
+      "summary": "On Monday, September 28, 2026, U.S. stocks declined as rising Treasury yields and a rebound in oil prices weighed on sentiment. The moves followed President Donald Trump’s weekend rejection of an Iranian proposal related to reopening the Strait of Hormuz, which revived geopolitical and inflation concerns after a more constructive close the prior Friday.",
+      "us_equities": {
+        "indices": [
+          {
+            "name": "Dow Jones Industrial Average",
+            "value": "51,481.51",
+            "change": "-347.11 points",
+            "pct": "-0.67%",
+            "notes": ""
+          },
+          {
+            "name": "S&P 500",
+            "value": "7,683.69",
+            "change": "-59.72 points",
+            "pct": "-0.77%",
+            "notes": "This erased recent progress and left the index further from its mid-August record high."
+          },
+          {
+            "name": "Nasdaq Composite",
+            "value": "26,820.38",
+            "change": "-248.34 points",
+            "pct": "-0.92%",
+            "notes": ""
+          },
+          {
+            "name": "Russell 2000",
+            "value": "",
+            "change": "",
+            "pct": "",
+            "notes": "approximately 2,817.91, down about 0.7%."
+          }
+        ],
+        "volatility": "Volatility rose (VIX climbed roughly 8% to around 16).",
+        "breadth": "",
+        "sectors": "Most sectors declined, with technology and communication services under pressure.",
+        "notable_movers": [],
+        "other": ""
+      },
+      "bonds": {
+        "summary": "Treasury yields extended their recent climb. The 10-year yield rose to around 5.23% (touching its highest levels since 2007), while the 30-year yield also advanced to multi-year highs (reports cited levels above 5.5%). The move reflected renewed inflation concerns from oil volatility and reinforced market pricing of potential further Federal Reserve rate hikes. Higher yields pressured equity valuations, particularly growth and rate-sensitive stocks.",
+        "yields": [
+          "10-year: 5.23%"
+        ],
+        "notes": ""
+      },
+      "commodities": {
+        "summary": "Oil prices rose after the U.S. rejection of Iran’s latest proposal on the Strait of Hormuz and related ceasefire terms (though further talks were expected). WTI settled higher (around $92.60–$93.37 range across reports), and Brent climbed (settling near $105). Gold fell sharply (around 4%, to the $4,145 area) as higher yields and a firmer dollar outweighed safe-haven demand.",
+        "oil": "WTI settled higher (around $92.60–$93.37 range across reports), and Brent climbed (settling near $105).",
+        "gold": "Gold fell sharply (around 4%, to the $4,145 area) as higher yields and a firmer dollar outweighed safe-haven demand."
+      },
+      "currencies": {
+        "summary": "The U.S. dollar strengthened modestly, supported by the rise in yields."
+      },
+      "global_markets": {
+        "asia": "",
+        "europe": "",
+        "summary": "Asian markets were mostly lower as the region returned from holiday closures, with technology shares under pressure. European indexes were mixed to slightly lower. Broader risk appetite was cautious amid the U.S. bond and oil moves."
+      },
+      "key_drivers": [
+        {
+          "title": "U.S.-Iran developments",
+          "text": "Trump’s rejection of Iran’s proposal over the weekend reversed some of the prior week’s diplomatic optimism, lifting oil prices and rekindling supply and inflation worries tied to the ongoing conflict."
+        },
+        {
+          "title": "Bond market pressure",
+          "text": "Yields resumed their climb toward multi-decade highs, increasing the cost of capital and weighing on equities after a brief pause late the prior week."
+        },
+        {
+          "title": "Company-specific news",
+          "text": "Nvidia’s large buyback provided a bright spot in tech, but broader AI-related and growth stocks faced headwinds from higher rates. Boeing’s regulatory setback and MongoDB’s leadership change added to the negative tone in specific names."
+        },
+        {
+          "title": "Upcoming data",
+          "text": "Markets looked ahead to labor market reports (including JOLTS) and the Fed’s preferred inflation gauge (PCE) later in the week."
+        }
+      ],
+      "overall_tone": "Risk-off to start the new week. Equities gave back some of the prior week’s gains as geopolitical uncertainty and higher yields returned to the forefront. Investor focus remained on oil supply risks, the path of interest rates, and any further developments in Middle East diplomacy."
+    },
+    {
       "timestamp": "2026-09-25T20:00:00+00:00",
       "header": "Friday, September 25, 2026's Report",
       "headline": "On Friday, September 25, 2026, U.S. stocks rose to close out a volatile week on a positive note, helped by a cooldown in oil prices on hopes for progress in U.S.-Iran negotiations and continued AI-related optimism.",
