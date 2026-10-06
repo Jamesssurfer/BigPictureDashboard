@@ -1,5 +1,91 @@
 [
   {
+    "timestamp": "2026-10-06T20:00:00+00:00",
+    "header": "Tuesday, October 6, 2026's Report",
+    "headline": "On Tuesday, October 6, 2026, U.S. stocks advanced, with the S&P 500 reaching a new all-time high and the Nasdaq Composite setting another record close.",
+    "summary": "On Tuesday, October 6, 2026, U.S. stocks advanced, with the S&P 500 reaching a new all-time high and the Nasdaq Composite setting another record close. Technology and AI-related shares led the gains, supported by easing Treasury yields and lower oil prices.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "51,521.28",
+          "change": "+253.38 points",
+          "pct": "+0.5%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,818.93",
+          "change": "+44.98 points",
+          "pct": "+0.6%",
+          "notes": ", setting a fresh all-time high (surpassing the prior record from August)."
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "27,599.79",
+          "change": "+122.48 points",
+          "pct": "+0.4%",
+          "notes": ", marking a second consecutive record close."
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,830.30",
+          "change": "-16.84 points",
+          "pct": "-0.6%",
+          "notes": ""
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "Most S&P 500 sectors finished positive, with utilities and real estate among the leaders.",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Treasury yields eased from the multi-year highs reached the previous day. The 10-year yield declined a few basis points to around 5.27–5.28% (after touching levels near 5.34% on Monday, the highest since 2002). The 30-year yield also pulled back. The move provided relief for equity valuations, particularly growth stocks. Market pricing continued to show low odds of a Federal Reserve rate hike at the October meeting following the soft September jobs data.",
+      "yields": [
+        "10-year: 5.27–5.28%"
+      ],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices fell roughly 2%. Brent crude dropped below $100 (settling near $98), and WTI also declined, helped by resilient Middle East crude exports and earlier G7 commitments to release strategic fuel reserves. The softer oil prices eased some inflation concerns. Gold was mixed to modestly higher.",
+      "oil": "Brent crude dropped below $100 (settling near $98), and WTI also declined, helped by resilient Middle East crude exports and earlier G7 commitments to release strategic fuel reserves.",
+      "gold": "Gold was mixed to modestly higher."
+    },
+    "currencies": {
+      "summary": "The U.S. dollar eased modestly from recent highs. The euro recovered slightly from multi-month lows amid ongoing European fiscal concerns."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "European stocks advanced. Asian markets were mixed to higher in places (Japan continued to benefit from tech strength); mainland Chinese markets remained closed for the National Day holiday."
+    },
+    "key_drivers": [
+      {
+        "title": "AI and technology momentum",
+        "text": "Continued optimism around artificial intelligence demand supported chipmakers and megacap names, helping both the S&P 500 and Nasdaq post record closes."
+      },
+      {
+        "title": "Easing yields and oil",
+        "text": "A pullback in long-term Treasury yields from extreme levels and a decline in crude prices reduced some pressure on valuations and inflation worries."
+      },
+      {
+        "title": "Corporate news",
+        "text": "The Constellation Energy–Google power deal boosted nuclear and energy-related shares, while solid results from companies such as Lamb Weston added to positive sentiment ahead of the broader earnings season."
+      },
+      {
+        "title": "Economic data",
+        "text": "The U.S. trade deficit widened to $105.6 billion in August (larger than expected), driven by higher imports including semiconductors and capital goods."
+      },
+      {
+        "title": "Forward focus",
+        "text": "Investors looked ahead to Federal Reserve minutes from the September meeting (due the next day), additional Fed speakers, and the start of third-quarter earnings reports the following week. Expectations for strong AI-related earnings growth remained a key support."
+      }
+    ],
+    "overall_tone": "Constructive and record-setting. The S&P 500’s first all-time high since August, combined with another Nasdaq record, reflected resilience in technology and growth stocks despite the recent backdrop of elevated yields and geopolitical/energy uncertainty. Softening oil prices and a pause in the bond selloff provided a favorable backdrop as markets prepared for earnings season."
+  },
+  {
     "timestamp": "2026-10-05T20:00:00+00:00",
     "header": "Monday, October 5, 2026's Report",
     "headline": "On Monday, October 5, 2026, U.S. stocks rose, with the Nasdaq Composite reaching a new record high and the S&P 500 closing within 0.",
