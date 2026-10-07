@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-10-07T20:00:00+00:00",
+    "header": "Wednesday, October 7, 2026's Report",
+    "headline": "On Wednesday, October 7, 2026, U.S. stocks pulled back from the prior day’s record highs.",
+    "summary": "On Wednesday, October 7, 2026, U.S. stocks pulled back from the prior day’s record highs. Rising Treasury yields and a rebound in oil prices weighed on sentiment, ending multi-day winning streaks for the major indexes.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "51,179.87",
+          "change": "-341.41 points",
+          "pct": "-0.7%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,801.77",
+          "change": "-17.16 points",
+          "pct": "-0.2%",
+          "notes": ", retreating from Tuesday’s all-time high."
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "27,538.69",
+          "change": "-61.20 points",
+          "pct": "-0.2%",
+          "notes": ", ending a multi-day advance."
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,793.20",
+          "change": "-37.09 points",
+          "pct": "-1.3%",
+          "notes": ", underperforming larger-cap indexes."
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "Industrials and materials were among the weaker sectors.",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Long-term Treasury yields resumed their climb and touched fresh 24-year highs during the session. The 10-year yield peaked near 5.36% before easing somewhat (settling around 5.28–5.31%). The 30-year yield also reached multi-decade highs. A solid $39 billion 10-year Treasury auction later in the day helped temper the selloff. The rebound in yields revived concerns about inflation persistence and elevated government debt levels.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices rebounded. Brent crude moved back above $100 (settling near or slightly above that level), supported by Middle East supply concerns (including Houthi-related developments) and weather-related risks to U.S. production. WTI also firmed. Gold declined.",
+      "oil": "WTI also firmed. Brent crude moved back above $100 (settling near or slightly above that level), supported by Middle East supply concerns (including Houthi-related developments) and weather-related risks to U.S.",
+      "gold": "Gold declined."
+    },
+    "currencies": {
+      "summary": "The U.S. dollar strengthened. The euro remained under pressure amid ongoing European fiscal worries."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "European stocks declined (French shares notably weaker amid budget-related protests and fiscal concerns). Asian markets were mixed to lower."
+    },
+    "key_drivers": [
+      {
+        "title": "Rising yields and oil",
+        "text": "The resumption of the bond-market selloff and higher crude prices rekindled inflation and rate concerns, pressuring equities after Tuesday’s record closes."
+      },
+      {
+        "title": "Federal Reserve minutes",
+        "text": "The September FOMC minutes were released, revealing some internal division over the rationale for the recent rate hike, though the decision itself had been unanimous."
+      },
+      {
+        "title": "Company-specific moves",
+        "text": "Caterpillar’s sharp drop dominated the Dow’s performance. Other individual stories included strength in certain tech names (e.g., Micron) and weakness in SpaceX on financing headlines."
+      },
+      {
+        "title": "Broader backdrop",
+        "text": "Persistent worries about government debt loads, energy prices tied to Middle East tensions, and the path of monetary policy continued to influence markets. Investors remained focused on the approaching third-quarter earnings season."
+      },
+      {
+        "title": "Session dynamics",
+        "text": "Stocks opened weaker and tested lower levels before recovering a portion of the losses into the close, with large-cap tech holding up better than small-caps and industrials."
+      }
+    ],
+    "overall_tone": "Cautious pullback. After consecutive record closes for the S&P 500 and Nasdaq, markets gave back some gains as long-term yields and oil prices moved higher again. The session highlighted ongoing sensitivity to bond-market and energy developments even as AI and growth narratives had supported recent advances."
+  },
+  {
     "timestamp": "2026-10-06T20:00:00+00:00",
     "header": "Tuesday, October 6, 2026's Report",
     "headline": "On Tuesday, October 6, 2026, U.S. stocks advanced, with the S&P 500 reaching a new all-time high and the Nasdaq Composite setting another record close.",
@@ -336,89 +420,5 @@
       }
     ],
     "overall_tone": "Cautiously positive to start October. Equities managed modest gains after yields retreated from extreme levels, with AI-related and software strength providing support. Markets remained sensitive to bond-market swings, oil prices, and the upcoming employment report as key near-term catalysts."
-  },
-  {
-    "timestamp": "2026-09-30T20:00:00+00:00",
-    "header": "Wednesday, September 30, 2026's Report",
-    "headline": "On Wednesday, September 30, 2026, U.S. stocks finished mixed in a volatile session that marked the end of the month and the third quarter.",
-    "summary": "On Wednesday, September 30, 2026, U.S. stocks finished mixed in a volatile session that marked the end of the month and the third quarter. Soft inflation data initially lifted equities and cooled near-term rate-hike expectations, but stronger economic growth readings and persistently high long-term Treasury yields led most major indexes to close lower.",
-    "us_equities": {
-      "indices": [
-        {
-          "name": "Dow Jones Industrial Average",
-          "value": "50,906.05",
-          "change": "-443.87 points",
-          "pct": "-0.9%",
-          "notes": ""
-        },
-        {
-          "name": "S&P 500",
-          "value": "7,651.54",
-          "change": "-19.30 points",
-          "pct": "-0.3%",
-          "notes": ""
-        },
-        {
-          "name": "Nasdaq Composite",
-          "value": "26,861.06",
-          "change": "+63.52 points",
-          "pct": "+0.2%",
-          "notes": ""
-        },
-        {
-          "name": "Russell 2000",
-          "value": "",
-          "change": "",
-          "pct": "",
-          "notes": "approximately 2,796.86, down about 0.4%."
-        }
-      ],
-      "volatility": "",
-      "breadth": "",
-      "sectors": "",
-      "notable_movers": [],
-      "other": ""
-    },
-    "bonds": {
-      "summary": "Long-term Treasury yields remained elevated and extended their recent climb at times. The 10-year yield hovered near or above 5.25–5.30% (multi-year highs), and the 30-year yield stayed around its highest levels since 2002. Soft PCE data initially pushed shorter-term yields lower and reduced the market-implied probability of an October Fed hike, but stronger growth indicators limited the relief in longer-dated yields.",
-      "yields": [],
-      "notes": ""
-    },
-    "commodities": {
-      "summary": "Oil prices rose on the day amid ongoing uncertainty in U.S.-Iran talks and tight fuel markets. Gold was mixed to slightly lower as the yield environment offset some safe-haven demand.",
-      "oil": "",
-      "gold": "Gold was mixed to slightly lower as the yield environment offset some safe-haven demand."
-    },
-    "currencies": {
-      "summary": "The U.S. dollar was little changed to slightly softer after the inflation data."
-    },
-    "global_markets": {
-      "asia": "",
-      "europe": "",
-      "summary": "European stocks finished lower. Asian markets were mixed ahead of the U.S. session."
-    },
-    "key_drivers": [
-      {
-        "title": "PCE inflation data",
-        "text": "The Commerce Department reported that the Personal Consumption Expenditures price index rose 3.4% year-over-year in August (below the 3.7% expectation). Core PCE (excluding food and energy) also came in softer than forecast. This tempered near-term Fed rate-hike expectations and initially supported stocks."
-      },
-      {
-        "title": "Stronger growth data",
-        "text": "A higher revision to second-quarter GDP (to a 2.2% annualized rate) and solid private payrolls figures underscored economic resilience, which helped keep long-term yields elevated and ultimately pressured equities later in the day."
-      },
-      {
-        "title": "Bond market pressure",
-        "text": "Despite the softer inflation reading, the multi-week rise in long-term yields continued to weigh on valuations, particularly outside of technology."
-      },
-      {
-        "title": "Month- and quarter-end dynamics",
-        "text": "Position adjustments and the close of September/Q3 added to volatility. Micron Technology’s upbeat outlook after the close offered a late positive note for the semiconductor sector."
-      },
-      {
-        "title": "Ongoing themes",
-        "text": "Elevated oil prices tied to the Middle East situation and the broader debate over the Fed’s path remained central."
-      }
-    ],
-    "overall_tone": "Mixed and choppy on the final day of the month and quarter. Soft inflation provided temporary relief and boosted the Nasdaq, but resilient growth data and high long-term yields limited broader gains. Markets closed the period with the S&P 500 and Nasdaq still higher for the quarter, while investors looked ahead to upcoming labor market data for further clues on the economic and policy outlook."
   }
 ]
