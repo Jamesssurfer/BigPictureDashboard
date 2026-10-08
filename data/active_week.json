@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-10-08T20:00:00+00:00",
+    "header": "Thursday, October 8, 2026's Report",
+    "headline": "On Thursday, October 8, 2026, U.S. stocks were mixed, with the S&P 500 and Nasdaq declining for a second straight session after recent records, while the Dow edged higher.",
+    "summary": "On Thursday, October 8, 2026, U.S. stocks were mixed, with the S&P 500 and Nasdaq declining for a second straight session after recent records, while the Dow edged higher. A sharp rise in oil prices and weakness in technology and semiconductor stocks weighed on the broader market.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "51,231.64",
+          "change": "+51.77 points",
+          "pct": "+0.1%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,765.36",
+          "change": "-36.41 points",
+          "pct": "-0.5%",
+          "notes": ", its second consecutive loss after the recent all-time high."
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "27,193.34",
+          "change": "-345.35 points",
+          "pct": "-1.3%",
+          "notes": ", the steepest decline among the majors."
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,794.13",
+          "change": "+0.92 points",
+          "pct": "",
+          "notes": "(essentially flat, +0.03%)."
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Treasury yields were volatile. They rose in the morning (the 10-year briefly approached or touched levels near 5.35%) on higher oil prices and inflation concerns, before easing in the afternoon following a 30-year bond auction. Yields remained elevated near multi-year highs overall. The moves reflected ongoing sensitivity to energy prices and debt-market dynamics.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices surged. Brent crude climbed more than 4% and topped $104 per barrel (the highest in over a week in some readings), while WTI also rose sharply (around 3.6–4.6% in various reports). The gains were driven by heightened Middle East tensions (including attacks on shipping) and a reduction in U.S. Gulf of Mexico output related to weather (Hurricane Isaias). Energy sector stocks benefited. Gold was mixed to modestly higher.",
+      "oil": "Brent crude climbed more than 4% and topped $104 per barrel (the highest in over a week in some readings), while WTI also rose sharply (around 3.6–4.6% in various reports).",
+      "gold": "Gold was mixed to modestly higher."
+    },
+    "currencies": {
+      "summary": "The U.S. dollar held firm amid the risk-off tone in parts of the market."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "European and Asian stocks generally declined, pressured by similar concerns over oil, yields, and risk sentiment."
+    },
+    "key_drivers": [
+      {
+        "title": "Oil price surge",
+        "text": "A sharp rebound in crude, fueled by Middle East supply risks and U.S. production disruptions, reignited inflation and rate-hike worries."
+      },
+      {
+        "title": "Technology and AI caution",
+        "text": "Semiconductor and growth stocks sold off after the OpenAI revenue report, cooling recent AI-driven enthusiasm that had propelled records earlier in the week."
+      },
+      {
+        "title": "Volatile bond market",
+        "text": "Yields climbed early with oil before partially retreating after the long-bond auction, highlighting ongoing sensitivity to energy and debt dynamics."
+      },
+      {
+        "title": "Sector divergence",
+        "text": "Energy outperformed while technology lagged, producing a mixed overall tape despite broad participation among individual stocks."
+      },
+      {
+        "title": "Forward focus",
+        "text": "Investors remained attentive to the start of third-quarter earnings season, further Treasury auctions, and any developments on Middle East energy supply or Fed policy signals."
+      }
+    ],
+    "overall_tone": "Uneasy and mixed. The session featured sharp reversals in oil and yields, with technology weakness pulling the Nasdaq and S&P 500 lower even as the Dow managed a small gain and most stocks advanced. Elevated energy prices and lingering rate concerns continued to challenge the recent equity rally."
+  },
+  {
     "timestamp": "2026-10-07T20:00:00+00:00",
     "header": "Wednesday, October 7, 2026's Report",
     "headline": "On Wednesday, October 7, 2026, U.S. stocks pulled back from the prior day’s record highs.",
@@ -336,89 +420,5 @@
       }
     ],
     "overall_tone": "Risk-on to close the week. Soft jobs data provided a clear catalyst for lower rate-hike expectations and a broad equity rally, allowing the Nasdaq to hit a fresh record and the S&P 500 to approach its all-time high. Markets remained focused on the interplay between labor-market cooling, still-elevated long-term yields, and oil-price volatility as key influences on the Fed’s path."
-  },
-  {
-    "timestamp": "2026-10-01T20:00:00+00:00",
-    "header": "Thursday, October 1, 2026's Report",
-    "headline": "On Thursday, October 1, 2026, U.S. stocks opened the new month and fourth quarter with modest gains in a volatile session.",
-    "summary": "On Thursday, October 1, 2026, U.S. stocks opened the new month and fourth quarter with modest gains in a volatile session. Treasury yields surged to multi-decade highs early in the day before retreating, allowing equities to reverse earlier losses and close higher. Strength in technology and software helped offset pressure from elevated borrowing costs and rising oil prices.",
-    "us_equities": {
-      "indices": [
-        {
-          "name": "Dow Jones Industrial Average",
-          "value": "50,926.56",
-          "change": "+20.51 points",
-          "pct": "+0.04%",
-          "notes": ""
-        },
-        {
-          "name": "S&P 500",
-          "value": "7,666.45",
-          "change": "+14.91 points",
-          "pct": "+0.2%",
-          "notes": ", snapping a three-day losing streak."
-        },
-        {
-          "name": "Nasdaq Composite",
-          "value": "26,871.60",
-          "change": "+10.53 points",
-          "pct": "+0.04%",
-          "notes": ""
-        },
-        {
-          "name": "Russell 2000",
-          "value": "",
-          "change": "",
-          "pct": "",
-          "notes": "approximately 2,806.63, up about 0.3%."
-        }
-      ],
-      "volatility": "",
-      "breadth": "",
-      "sectors": "Rate-sensitive sectors faced pressure earlier when yields spiked.",
-      "notable_movers": [],
-      "other": ""
-    },
-    "bonds": {
-      "summary": "The 10-year Treasury yield hit an intraday high near 5.34%—its highest level since 2002—before pulling back later in the session to end lower. The 30-year yield also reached multi-decade highs intraday before easing. The early selloff extended a multi-week rise in long-term yields, but buyers stepped in during the afternoon, providing relief to equities. Shorter-term yields also declined from session highs.",
-      "yields": [],
-      "notes": ""
-    },
-    "commodities": {
-      "summary": "Oil prices rose sharply. WTI climbed (settling near $92–$93), and Brent jumped above $100–$102 amid reports of China suspending oil-product exports and ongoing Middle East tensions. Gold gained modestly.",
-      "oil": "WTI climbed (settling near $92–$93), and Brent jumped above $100–$102 amid reports of China suspending oil-product exports and ongoing Middle East tensions.",
-      "gold": "Gold gained modestly."
-    },
-    "currencies": {
-      "summary": "The U.S. dollar strengthened, with the euro falling to multi-month lows against it."
-    },
-    "global_markets": {
-      "asia": "",
-      "europe": "",
-      "summary": "European stocks declined sharply (London down ~1.7%, Paris ~1.6%, Frankfurt ~1%), pressured by their own bond-market moves. Asian markets were mixed to higher in some cases (notably Japan on tech strength)."
-    },
-    "key_drivers": [
-      {
-        "title": "Bond market volatility",
-        "text": "Yields extended their recent climb to 24-year highs early on before reversing, creating a tug-of-war for stocks. The pullback in yields later in the day was a key catalyst for the equity rebound."
-      },
-      {
-        "title": "Corporate results",
-        "text": "Micron’s strong earnings and raised outlook, along with Accenture’s beat and guidance, boosted technology and software sentiment at the start of the new quarter."
-      },
-      {
-        "title": "Economic data",
-        "text": "Initial jobless claims remained low at 197,000 (fourth consecutive week of declines), signaling continued labor-market resilience. ISM manufacturing data showed ongoing expansion but with elevated prices-paid readings that kept inflation concerns alive."
-      },
-      {
-        "title": "Oil and geopolitics",
-        "text": "Higher crude prices, linked to Middle East developments and Chinese export curbs, added to inflation worries and supported the early rise in yields."
-      },
-      {
-        "title": "New quarter dynamics",
-        "text": "Investors began the fourth quarter focused on upcoming nonfarm payrolls data and the broader path of interest rates amid still-elevated long-term yields."
-      }
-    ],
-    "overall_tone": "Cautiously positive to start October. Equities managed modest gains after yields retreated from extreme levels, with AI-related and software strength providing support. Markets remained sensitive to bond-market swings, oil prices, and the upcoming employment report as key near-term catalysts."
   }
 ]
