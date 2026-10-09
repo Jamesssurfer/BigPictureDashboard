@@ -1,5 +1,91 @@
 [
   {
+    "timestamp": "2026-10-09T20:00:00+00:00",
+    "header": "Friday, October 9, 2026's Report",
+    "headline": "On Friday, October 9, 2026, U.S. stocks rose to close out a record-setting week.",
+    "summary": "On Friday, October 9, 2026, U.S. stocks rose to close out a record-setting week. The major indexes recovered from the prior day’s pullback, with the S&P 500 approaching its recent all-time high and technology shares rebounding.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "51,654.95",
+          "change": "+423.31 points",
+          "pct": "+0.8%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,811.54",
+          "change": "+46.18 points",
+          "pct": "+0.6%",
+          "notes": ", coming close to its all-time high set earlier in the week."
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "27,366.17",
+          "change": "+172.83 points",
+          "pct": "+0.6%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,806.98",
+          "change": "+12.85 points",
+          "pct": "+0.5%",
+          "notes": ""
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "The 10-year Treasury yield experienced several swings and ended higher around 5.24%. Yields remained elevated near multi-year levels amid ongoing inflation and debt concerns, though the session was less volatile than earlier in the week.",
+      "yields": [
+        "10-year: 5.24%"
+      ],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices were mixed. Brent crude erased an early decline and settled modestly higher (around $104.7, up about 0.4% in some reports) after volatile trading. Prices had been supported by Middle East supply risks but saw some relief earlier after comments indicating no U.S. attack on Iran before the midterm elections. Gold rose.",
+      "oil": "Brent crude erased an early decline and settled modestly higher (around $104.7, up about 0.4% in some reports) after volatile trading.",
+      "gold": "Gold rose."
+    },
+    "currencies": {
+      "summary": "Markets remained relatively calm in currencies amid the equity rebound."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "European stocks advanced (gains of 1% or more in several major indexes). Asian markets were mixed, with Hong Kong notably stronger."
+    },
+    "key_drivers": [
+      {
+        "title": "Rebound from midweek weakness",
+        "text": "Equities recovered after Thursday’s oil-driven and tech-related declines, helped by a bounce in technology and a more stable tone in energy prices."
+      },
+      {
+        "title": "Oil and geopolitics",
+        "text": "Crude remained elevated above $100 but showed less upside pressure after presidential comments ruling out near-term escalation with Iran ahead of the November midterms."
+      },
+      {
+        "title": "Company-specific news",
+        "text": "Strong moves in Humana supported healthcare, while early earnings from Delta highlighted fuel-cost pressures. Telecom stocks reacted to competitive developments involving SpaceX."
+      },
+      {
+        "title": "Economic data",
+        "text": "Preliminary University of Michigan consumer sentiment for October slipped modestly."
+      },
+      {
+        "title": "Weekly context",
+        "text": "The week featured the S&P 500 and Nasdaq reaching record highs earlier, followed by pullbacks on rising yields and oil, before Friday’s recovery. Attention turned toward the start of third-quarter earnings season the following week."
+      }
+    ],
+    "overall_tone": "Constructive close to a volatile but ultimately positive week for equities. Stocks shook off recent pressure from elevated yields and oil prices, with technology recovering and the S&P 500 nearing its recent peak. Markets remained sensitive to energy developments and the path of interest rates heading into earnings season."
+  },
+  {
     "timestamp": "2026-10-08T20:00:00+00:00",
     "header": "Thursday, October 8, 2026's Report",
     "headline": "On Thursday, October 8, 2026, U.S. stocks were mixed, with the S&P 500 and Nasdaq declining for a second straight session after recent records, while the Dow edged higher.",
