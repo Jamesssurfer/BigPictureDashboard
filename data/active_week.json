@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-10-16T20:00:00+00:00",
+    "header": "Friday, October 16, 2026's Report",
+    "headline": "On Friday, October 16, 2026, U.S. stocks closed lower, with technology and semiconductor shares leading the decline.",
+    "summary": "On Friday, October 16, 2026, U.S. stocks closed lower, with technology and semiconductor shares leading the decline. The Nasdaq and S&P 500 posted their worst weeks since June, while the Dow held up better with only a modest loss. Energy and utilities were among the relative gainers.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "52,002.41",
+          "change": "-175.28 points",
+          "pct": "-0.3%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,659.44",
+          "change": "-84.62 points",
+          "pct": "-1.1%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "26,140.03",
+          "change": "-572.99 points",
+          "pct": "-2.1%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,721.37",
+          "change": "-45.90 points",
+          "pct": "-1.7%",
+          "notes": ""
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "Technology and communication services were the weakest sectors.",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Treasury yields were mixed to slightly higher on the day after recent declines, remaining well below the multi-year peaks seen earlier in the month. The 10-year yield hovered near the 5.09–5.10% area in various reports.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices rose (WTI showed notable strength in some settlements, with energy shares benefiting). Gold was relatively steady to modestly higher.",
+      "oil": "Oil prices rose (WTI showed notable strength in some settlements, with energy shares benefiting).",
+      "gold": "Gold was relatively steady to modestly higher."
+    },
+    "currencies": {
+      "summary": "The VIX volatility index climbed sharply as equity weakness returned. The U.S. dollar was under some pressure for the week."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "European and Asian markets closed higher, providing a contrast to the weaker U.S. session."
+    },
+    "key_drivers": [
+      {
+        "title": "Continued AI and semiconductor pressure",
+        "text": "Investors remained focused on the sustainability of heavy capital spending and debt loads tied to the AI buildout, extending the multi-day sell-off in chips and related names."
+      },
+      {
+        "title": "Weekly performance divergence",
+        "text": "The Dow’s weekly gain stood out against steeper losses for the tech-heavy Nasdaq and the broader S&P 500, reflecting ongoing rotation dynamics seen earlier in the week."
+      },
+      {
+        "title": "Energy strength",
+        "text": "Higher oil prices supported the energy sector amid persistent Middle East supply concerns."
+      },
+      {
+        "title": "Inflation backdrop",
+        "text": "Markets continued to digest the hotter CPI and PPI readings from earlier in the week, which had raised rate-hike expectations, even as yields had pulled back in prior sessions."
+      },
+      {
+        "title": "Market positioning",
+        "text": "The session ended a stretch of relatively contained daily moves for the S&P 500 and highlighted renewed volatility, with the VIX rising."
+      }
+    ],
+    "overall_tone": "Risk-off close driven by technology weakness. Stocks finished lower to end a down week for the major growth-oriented indexes, while energy provided a bright spot. Attention remains on the durability of AI-related valuations, sticky inflation data, and the Federal Reserve’s policy path heading into the next week."
+  },
+  {
     "timestamp": "2026-10-15T20:00:00+00:00",
     "header": "Thursday, October 15, 2026's Report",
     "headline": "On Thursday, October 15, 2026, U.S. stocks rebounded from the previous day’s sharp sell-off.",
