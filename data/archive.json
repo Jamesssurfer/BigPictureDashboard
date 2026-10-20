@@ -1,6 +1,90 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-12T20:00:00+00:00",
+      "header": "Monday, October 12, 2026's Report",
+      "headline": "On Monday, October 12, 2026, U.S. stocks traded mixed on light volume as the market kicked off a busy week of bank earnings and inflation data.",
+      "summary": "On Monday, October 12, 2026, U.S. stocks traded mixed on light volume as the market kicked off a busy week of bank earnings and inflation data. The Dow rose while the S&P 500 and Nasdaq slipped, keeping the broad market near its recent all-time high. U.S. bond trading was closed for Columbus Day.",
+      "us_equities": {
+        "indices": [
+          {
+            "name": "Dow Jones Industrial Average",
+            "value": "51,850.55",
+            "change": "+195.60 points",
+            "pct": "+0.4%",
+            "notes": ""
+          },
+          {
+            "name": "S&P 500",
+            "value": "7,807.24",
+            "change": "-4.30 points",
+            "pct": "-0.1%",
+            "notes": ", remaining close to its October 6 record high."
+          },
+          {
+            "name": "Nasdaq Composite",
+            "value": "27,245.90",
+            "change": "-120.27 points",
+            "pct": "-0.4%",
+            "notes": ""
+          },
+          {
+            "name": "Russell 2000",
+            "value": "2,794.48",
+            "change": "-12.50 points",
+            "pct": "-0.4%",
+            "notes": ""
+          }
+        ],
+        "volatility": "",
+        "breadth": "",
+        "sectors": "",
+        "notable_movers": [],
+        "other": ""
+      },
+      "bonds": {
+        "summary": "U.S. Treasury trading was closed in observance of Columbus Day. The 10-year yield was little changed near 5.24% in related trading.",
+        "yields": [],
+        "notes": ""
+      },
+      "commodities": {
+        "summary": "Oil prices rose. Brent crude climbed about 1.8% to approximately $106.65 per barrel, supported by ongoing Middle East tensions, including Houthi attacks on Saudi Arabia. WTI also advanced. Gold declined.",
+        "oil": "WTI also advanced. Brent crude climbed about 1.8% to approximately $106.65 per barrel, supported by ongoing Middle East tensions, including Houthi attacks on Saudi Arabia.",
+        "gold": "Gold declined."
+      },
+      "currencies": {
+        "summary": "The U.S. dollar strengthened amid higher oil prices and rate expectations."
+      },
+      "global_markets": {
+        "asia": "",
+        "europe": "",
+        "summary": "Trading was relatively quiet in some regions due to holidays. European markets were mixed to higher in places."
+      },
+      "key_drivers": [
+        {
+          "title": "Light holiday trading",
+          "text": "Columbus Day reduced participation, with bond markets shuttered and overall volume subdued."
+        },
+        {
+          "title": "Sector rotation",
+          "text": "Technology and growth shares faced pressure (including memory stocks), while energy benefited from higher oil and defensives attracted flows."
+        },
+        {
+          "title": "Oil and geopolitics",
+          "text": "Crude advanced on Middle East developments despite recent comments aimed at easing energy tensions, including discussions around Russian diesel supply."
+        },
+        {
+          "title": "Upcoming catalysts",
+          "text": "Focus shifted to a heavy week of bank earnings (Citigroup, JPMorgan Chase, Wells Fargo, and others reporting starting Tuesday) and key inflation data (CPI and related releases)."
+        },
+        {
+          "title": "Market positioning",
+          "text": "The S&P 500 stayed near its recent peak, reflecting resilience even as tech lagged and energy costs remained elevated."
+        }
+      ],
+      "overall_tone": "Quiet and mixed start to the week. The Dow’s gain contrasted with modest declines in the S&P 500 and Nasdaq amid technology weakness and rising oil prices. With bond markets closed and volume light, investors positioned ahead of major bank results and inflation reports that could influence rate expectations and market direction."
+    },
+    {
       "timestamp": "2026-10-09T20:00:00+00:00",
       "header": "Friday, October 9, 2026's Report",
       "headline": "On Friday, October 9, 2026, U.S. stocks rose to close out a record-setting week.",
@@ -339,7 +423,9 @@
         }
       ],
       "overall_tone": "Constructive and record-setting. The S&P 500’s first all-time high since August, combined with another Nasdaq record, reflected resilience in technology and growth stocks despite the recent backdrop of elevated yields and geopolitical/energy uncertainty. Softening oil prices and a pause in the bond selloff provided a favorable backdrop as markets prepared for earnings season."
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-05T20:00:00+00:00",
       "header": "Monday, October 5, 2026's Report",
@@ -423,9 +509,7 @@
         }
       ],
       "overall_tone": "Constructive and tech-led to start the week. The Nasdaq’s record close and the S&P 500’s approach to its all-time high reflected resilience in growth and AI-related names, even as elevated bond yields and residual geopolitical/oil uncertainty remained in the background. Markets looked ahead to earnings and Fed communications for the next catalysts."
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-02T20:00:00+00:00",
       "header": "Friday, October 2, 2026's Report",
