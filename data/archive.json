@@ -337,7 +337,9 @@
         }
       ],
       "overall_tone": "Cautious pullback. After consecutive record closes for the S&P 500 and Nasdaq, markets gave back some gains as long-term yields and oil prices moved higher again. The session highlighted ongoing sensitivity to bond-market and energy developments even as AI and growth narratives had supported recent advances."
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-06T20:00:00+00:00",
       "header": "Tuesday, October 6, 2026's Report",
@@ -423,9 +425,7 @@
         }
       ],
       "overall_tone": "Constructive and record-setting. The S&P 500’s first all-time high since August, combined with another Nasdaq record, reflected resilience in technology and growth stocks despite the recent backdrop of elevated yields and geopolitical/energy uncertainty. Softening oil prices and a pause in the bond selloff provided a favorable backdrop as markets prepared for earnings season."
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-05T20:00:00+00:00",
       "header": "Monday, October 5, 2026's Report",
