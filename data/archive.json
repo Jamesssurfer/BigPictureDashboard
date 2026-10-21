@@ -1,6 +1,92 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-14T20:00:00+00:00",
+      "header": "Wednesday, October 14, 2026's Report",
+      "headline": "On Wednesday, October 14, 2026, U.S. stocks posted their sharpest decline since late July.",
+      "summary": "On Wednesday, October 14, 2026, U.S. stocks posted their sharpest decline since late July. The S&P 500 and Nasdaq fell more than 1% as hotter-than-expected inflation data lifted expectations for a Federal Reserve rate hike and pressured technology and AI-related shares. The Dow held up better with only a modest loss.",
+      "us_equities": {
+        "indices": [
+          {
+            "name": "Dow Jones Industrial Average",
+            "value": "51,621.48",
+            "change": "-48.62 points",
+            "pct": "-0.1%",
+            "notes": ""
+          },
+          {
+            "name": "S&P 500",
+            "value": "7,718.94",
+            "change": "-86.51 points",
+            "pct": "-1.1%",
+            "notes": ", its largest one-day drop since July and fifth decline in the six sessions since its record high."
+          },
+          {
+            "name": "Nasdaq Composite",
+            "value": "26,692.87",
+            "change": "-511.51 points",
+            "pct": "-1.9%",
+            "notes": ""
+          },
+          {
+            "name": "Russell 2000",
+            "value": "2,729.53",
+            "change": "-53.84 points",
+            "pct": "-1.9%",
+            "notes": ""
+          }
+        ],
+        "volatility": "",
+        "breadth": "",
+        "sectors": "",
+        "notable_movers": [],
+        "other": ""
+      },
+      "bonds": {
+        "summary": "Treasury yields rose after the inflation report. The 10-year yield climbed, briefly touching around 5.32–5.33% before settling higher on the day. Rate-sensitive shorter-term yields also moved up, reflecting increased odds of a Fed rate increase as soon as the late-October meeting.",
+        "yields": [
+          "10-year: 5.32–5.33%"
+        ],
+        "notes": ""
+      },
+      "commodities": {
+        "summary": "Oil prices advanced (WTI up about 1% in some reports) amid ongoing Middle East supply concerns. Gold declined as the dollar strengthened and rate-hike expectations rose.",
+        "oil": "Oil prices advanced (WTI up about 1% in some reports) amid ongoing Middle East supply concerns.",
+        "gold": "Gold declined as the dollar strengthened and rate-hike expectations rose."
+      },
+      "currencies": {
+        "summary": "The U.S. dollar strengthened. The VIX volatility index rose notably."
+      },
+      "global_markets": {
+        "asia": "",
+        "europe": "",
+        "summary": "Broader risk sentiment was cautious, with technology and growth-oriented markets under pressure."
+      },
+      "key_drivers": [
+        {
+          "title": "Hotter CPI data",
+          "text": "September consumer prices rose 3.7% year-over-year (above the 3.6% forecast), with core CPI at 2.6% (above 2.5%). The monthly core reading of +0.3% also exceeded expectations. The data reinforced concerns that inflation remains sticky and increased the probability of a Fed rate hike."
+        },
+        {
+          "title": "Rate-sensitive sectors hit",
+          "text": "Higher yields weighed on technology, AI infrastructure, and growth stocks that had driven much of the year’s gains, due to concerns over elevated borrowing costs."
+        },
+        {
+          "title": "Bank earnings",
+          "text": "Bank of America reported a profit miss and faced additional regulatory costs, adding pressure to financials. Other bank results earlier in the week had been mixed."
+        },
+        {
+          "title": "Defensive rotation",
+          "text": "Healthcare and consumer staples outperformed as investors sought safer areas amid the inflation and rate concerns."
+        },
+        {
+          "title": "Market context",
+          "text": "The sell-off marked a clear pullback from recent record levels for the S&P 500 and Nasdaq, with the VIX climbing as volatility returned."
+        }
+      ],
+      "overall_tone": "Risk-off and inflation-driven. The hotter CPI print shifted rate expectations higher, pressuring rate-sensitive growth and AI stocks while supporting a modest defensive shift. Markets remain focused on the Fed’s next policy decision and further economic data, with elevated yields and energy costs continuing to influence sentiment."
+    },
+    {
       "timestamp": "2026-10-12T20:00:00+00:00",
       "header": "Monday, October 12, 2026's Report",
       "headline": "On Monday, October 12, 2026, U.S. stocks traded mixed on light volume as the market kicked off a busy week of bank earnings and inflation data.",
@@ -253,7 +339,9 @@
         }
       ],
       "overall_tone": "Uneasy and mixed. The session featured sharp reversals in oil and yields, with technology weakness pulling the Nasdaq and S&P 500 lower even as the Dow managed a small gain and most stocks advanced. Elevated energy prices and lingering rate concerns continued to challenge the recent equity rally."
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-07T20:00:00+00:00",
       "header": "Wednesday, October 7, 2026's Report",
@@ -337,9 +425,7 @@
         }
       ],
       "overall_tone": "Cautious pullback. After consecutive record closes for the S&P 500 and Nasdaq, markets gave back some gains as long-term yields and oil prices moved higher again. The session highlighted ongoing sensitivity to bond-market and energy developments even as AI and growth narratives had supported recent advances."
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-06T20:00:00+00:00",
       "header": "Tuesday, October 6, 2026's Report",
