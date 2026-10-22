@@ -1,5 +1,91 @@
 [
   {
+    "timestamp": "2026-10-22T20:00:00+00:00",
+    "header": "Thursday, October 22, 2026's Report",
+    "headline": "On Thursday, October 22, 2026, U.S. stocks closed mixed, with a sharp selloff in technology and AI-related shares dragging the S&P 500 and Nasdaq lower.",
+    "summary": "On Thursday, October 22, 2026, U.S. stocks closed mixed, with a sharp selloff in technology and AI-related shares dragging the S&P 500 and Nasdaq lower. The Dow held essentially flat as strength outside of tech offset the broader decline.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "52,867.98",
+          "change": "+11.89 points",
+          "pct": "+0.02%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,663.43",
+          "change": "-93.74 points",
+          "pct": "-1.2%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "26,008.86",
+          "change": "",
+          "pct": "",
+          "notes": "down approximately 694 points (−2.6%)."
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,784.03",
+          "change": "+3.01 points",
+          "pct": "+0.1%",
+          "notes": ""
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Treasury yields fell sharply as investors sought safety. The 10-year yield dropped below 5% (to around 4.95%), marking its lowest level in nearly a month and one of the largest daily declines in recent years.",
+      "yields": [
+        "10-year: 4.95%"
+      ],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices jumped on heightened Middle East tensions, with Brent crude rising to multi-month highs near $113 per barrel. Gold declined.",
+      "oil": "Oil prices jumped on heightened Middle East tensions, with Brent crude rising to multi-month highs near $113 per barrel.",
+      "gold": "Gold declined."
+    },
+    "currencies": {
+      "summary": "The VIX volatility index rose amid the tech selloff. The U.S. dollar was mixed to softer."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "Stocks declined in Europe and Asia, reflecting the global risk-off tone driven by AI concerns and energy prices."
+    },
+    "key_drivers": [
+      {
+        "title": "Renewed AI spending and debt worries",
+        "text": "Earnings from Meta and Tesla failed to fully ease concerns about the sustainability of heavy AI capital expenditures and related financing, triggering a broad selloff in tech and chip stocks."
+      },
+      {
+        "title": "Oil price surge",
+        "text": "Escalating attacks and geopolitical risks in the Middle East pushed crude higher, adding to inflation and risk concerns."
+      },
+      {
+        "title": "Flight to safety",
+        "text": "Sharp declines in Treasury yields reflected demand for bonds amid equity weakness."
+      },
+      {
+        "title": "Narrow leadership",
+        "text": "While mega-cap tech weighed heavily on the major indexes, most individual stocks rose, highlighting divergence between growth names and the broader market."
+      },
+      {
+        "title": "Ongoing earnings season",
+        "text": "Results continued to influence sentiment, with defensives outperforming amid the rotation away from high-valuation AI plays."
+      }
+    ],
+    "overall_tone": "Risk-off session led by technology weakness. AI-related concerns resurfaced despite some earnings beats, driving the Nasdaq and S&P 500 lower while the Dow and small-caps held up better. Elevated oil prices and a flight into Treasuries underscored caution heading into the end of the week."
+  },
+  {
     "timestamp": "2026-10-21T20:00:00+00:00",
     "header": "Wednesday, October 21, 2026's Report",
     "headline": "On Wednesday, October 21, 2026, U.S. stocks climbed across the board, with technology leading the advance.",
