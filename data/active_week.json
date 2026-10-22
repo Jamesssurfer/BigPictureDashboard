@@ -1,5 +1,91 @@
 [
   {
+    "timestamp": "2026-10-21T20:00:00+00:00",
+    "header": "Wednesday, October 21, 2026's Report",
+    "headline": "On Wednesday, October 21, 2026, U.S. stocks climbed across the board, with technology leading the advance.",
+    "summary": "On Wednesday, October 21, 2026, U.S. stocks climbed across the board, with technology leading the advance. The S&P 500 moved closer to its recent record high, supported by strong corporate earnings reports.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "52,856.09",
+          "change": "+360.21 points",
+          "pct": "+0.7%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,757.17",
+          "change": "+44.60 points",
+          "pct": "+0.6%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "26,702.86",
+          "change": "+278.04 points",
+          "pct": "+1.1%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,781.02",
+          "change": "+7.60 points",
+          "pct": "+0.3%",
+          "notes": ""
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "Industrials and energy performed well among sectors, while communication services lagged (pressured by Netflix and similar names facing growth concerns).",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Treasury yields rose modestly. The 10-year yield moved higher to around 5.14–5.15%.",
+      "yields": [
+        "10-year: 5.14–5.15%"
+      ],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices were mixed to firmer amid ongoing Middle East supply concerns. Gold was relatively steady to slightly higher in some readings.",
+      "oil": "",
+      "gold": "Gold was relatively steady to slightly higher in some readings."
+    },
+    "currencies": {
+      "summary": "The VIX volatility index declined further, reflecting calmer conditions. The U.S. dollar was little changed."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "European markets saw some pressure related to fiscal concerns in France, where yields rose notably."
+    },
+    "key_drivers": [
+      {
+        "title": "Strong earnings leadership",
+        "text": "SpaceX’s better-than-expected results reinvigorated sentiment around the AI trade and capital spending, helping technology and related stocks outperform."
+      },
+      {
+        "title": "Broader corporate support",
+        "text": "Positive reports from Capital One and other firms contributed to the advance across multiple sectors."
+      },
+      {
+        "title": "Tech rebound continues",
+        "text": "After recent volatility, AI and semiconductor-linked names regained ground, driving the Nasdaq higher."
+      },
+      {
+        "title": "Yields and oil backdrop",
+        "text": "Modestly higher Treasury yields did not derail equity gains, while energy prices remained elevated on geopolitical risks."
+      },
+      {
+        "title": "Market positioning",
+        "text": "The S&P 500 closed at its highest level since mid-October and continued to recover toward the early-month record."
+      }
+    ],
+    "overall_tone": "Positive session with broad participation and strong leadership from technology. Solid earnings, particularly from SpaceX, helped restore confidence in the AI theme and lifted major indexes. Attention remains focused on the ongoing earnings season and developments in energy and interest rates."
+  },
+  {
     "timestamp": "2026-10-20T20:00:00+00:00",
     "header": "Tuesday, October 20, 2026's Report",
     "headline": "On Tuesday, October 20, 2026, U.S. stocks closed mostly higher, led by a strong advance in the Dow.",
