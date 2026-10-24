@@ -1265,7 +1265,9 @@
         }
       ],
       "overall_tone": "A constructive close to a turbulent week. Equities showed resilience despite elevated yields and geopolitical uncertainty, supported by cooling oil prices, AI momentum, and solid underlying economic growth. Markets remained attentive to inflation signals, Fed policy, and further developments in the Middle East and U.S.-China relations."
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-24T20:00:00+00:00",
       "header": "Thursday, September 24, 2026's Report",
@@ -1349,7 +1351,6 @@
       "overall_tone": "Risk-off in bonds and cautious in equities amid higher yields and energy prices, partially offset by late-day hope around diplomacy. Markets remained sensitive to inflation, Fed policy, and geopolitical developments. Looking ahead (as of the close), focus shifted to upcoming data such as PCE inflation and further Fed signals."
     }
   ],
-  "past_3_months": [],
   "past_6_months": [],
   "past_1_year": [],
   "historical": []
