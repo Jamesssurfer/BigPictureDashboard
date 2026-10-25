@@ -1185,7 +1185,9 @@
         }
       ],
       "overall_tone": "Risk-off to start the new week. Equities gave back some of the prior week’s gains as geopolitical uncertainty and higher yields returned to the forefront. Investor focus remained on oil supply risks, the path of interest rates, and any further developments in Middle East diplomacy."
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-25T20:00:00+00:00",
       "header": "Friday, September 25, 2026's Report",
@@ -1265,9 +1267,7 @@
         }
       ],
       "overall_tone": "A constructive close to a turbulent week. Equities showed resilience despite elevated yields and geopolitical uncertainty, supported by cooling oil prices, AI momentum, and solid underlying economic growth. Markets remained attentive to inflation signals, Fed policy, and further developments in the Middle East and U.S.-China relations."
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-24T20:00:00+00:00",
       "header": "Thursday, September 24, 2026's Report",
