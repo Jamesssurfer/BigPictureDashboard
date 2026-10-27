@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-10-26T20:00:00+00:00",
+    "header": "Monday, October 26, 2026's Report",
+    "headline": "On Monday, October 26, 2026, U.S. stocks closed higher, with technology and AI-related shares leading the rebound after recent volatility.",
+    "summary": "On Monday, October 26, 2026, U.S. stocks closed higher, with technology and AI-related shares leading the rebound after recent volatility. The gains came amid a mixed global session and ahead of a heavy week of earnings and central bank decisions.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "52,361.58",
+          "change": "+146.42 points",
+          "pct": "+0.3%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,676.77",
+          "change": "+53.09 points",
+          "pct": "+0.7%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "26,169.38",
+          "change": "+214.04 points",
+          "pct": "+0.8%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,786.42",
+          "change": "+10.53 points",
+          "pct": "+0.4%",
+          "notes": ""
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "The 10-year Treasury yield traded near 4.99%, little changed to slightly lower as oil prices eased from recent highs and investors positioned ahead of the Federal Reserve’s policy decision later in the week.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices pulled back from multi-month highs, with WTI declining roughly 1–2% amid diplomatic developments that temporarily eased some supply concerns. Gold held above $4,000.",
+      "oil": "Oil prices pulled back from multi-month highs, with WTI declining roughly 1–2% amid diplomatic developments that temporarily eased some supply concerns.",
+      "gold": "Gold held above $4,000."
+    },
+    "currencies": {
+      "summary": "The U.S. dollar was mixed to firmer. Markets focused on the upcoming earnings blitz and multiple central bank meetings."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "Trading was mixed internationally. Brazilian stocks fell sharply following a surprise presidential reelection outcome."
+    },
+    "key_drivers": [
+      {
+        "title": "AI and tech rebound",
+        "text": "Anthropic’s public IPO filing revived enthusiasm for the artificial intelligence sector, lifting semiconductor and related shares after weeks of volatility and prior-session weakness."
+      },
+      {
+        "title": "Oil price pullback",
+        "text": "A modest decline in crude from recent peaks helped reduce some inflation-related pressure on equities."
+      },
+      {
+        "title": "Busy week ahead",
+        "text": "Investors looked forward to earnings from roughly one-third of S&P 500 companies (including major tech names) and policy decisions from the Federal Reserve and other central banks."
+      },
+      {
+        "title": "Continued AI swings",
+        "text": "Despite the overall positive session, individual AI-related names remained volatile."
+      },
+      {
+        "title": "Global backdrop",
+        "text": "Broader markets faced mixed signals, including political developments in Brazil."
+      }
+    ],
+    "overall_tone": "Constructive start to the week. Technology leadership returned as AI optimism improved on the Anthropic news, helping major indexes rebound. Attention remained firmly on the heavy earnings calendar and the Federal Reserve meeting later in the week, with oil prices and geopolitical risks still in focus."
+  },
+  {
     "timestamp": "2026-10-23T20:00:00+00:00",
     "header": "Friday, October 23, 2026's Report",
     "headline": "On Friday, October 23, 2026, U.S. stocks closed lower under pressure from rising oil prices, ending a volatile week.",
