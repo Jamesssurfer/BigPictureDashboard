@@ -1,6 +1,92 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-19T20:00:00+00:00",
+      "header": "Monday, October 19, 2026's Report",
+      "headline": "On Monday, October 19, 2026, U.S. stocks closed mixed, with technology and AI-related shares recovering some of last week’s steep losses.",
+      "summary": "On Monday, October 19, 2026, U.S. stocks closed mixed, with technology and AI-related shares recovering some of last week’s steep losses. The Nasdaq led the advance while the broader market outside of tech was more subdued, and the Dow finished slightly lower.",
+      "us_equities": {
+        "indices": [
+          {
+            "name": "Dow Jones Industrial Average",
+            "value": "51,966.03",
+            "change": "-36.38 points",
+            "pct": "-0.1%",
+            "notes": ""
+          },
+          {
+            "name": "S&P 500",
+            "value": "7,690.73",
+            "change": "+31.29 points",
+            "pct": "+0.4%",
+            "notes": ""
+          },
+          {
+            "name": "Nasdaq Composite",
+            "value": "26,430.89",
+            "change": "+290.85 points",
+            "pct": "+1.1%",
+            "notes": ""
+          },
+          {
+            "name": "Russell 2000",
+            "value": "2,728.30",
+            "change": "+6.93 points",
+            "pct": "+0.3%",
+            "notes": ""
+          }
+        ],
+        "volatility": "",
+        "breadth": "",
+        "sectors": "Most sectors outside of technology and consumer cyclical finished lower, with utilities and real estate among the laggards.",
+        "notable_movers": [],
+        "other": ""
+      },
+      "bonds": {
+        "summary": "Treasury yields rose as risk appetite returned to equities and safe-haven demand eased. The 10-year yield moved higher (reports placed it around 5.13–5.15%).",
+        "yields": [
+          "10-year: 5.13–5.15%"
+        ],
+        "notes": ""
+      },
+      "commodities": {
+        "summary": "Oil prices were mixed to lower in places after recent strength, though they remained elevated amid ongoing Middle East concerns. Gold declined.",
+        "oil": "",
+        "gold": "Gold declined."
+      },
+      "currencies": {
+        "summary": "The VIX volatility index eased from Friday’s elevated levels. The U.S. dollar was firmer."
+      },
+      "global_markets": {
+        "asia": "",
+        "europe": "",
+        "summary": "European indexes fell more than 1%, pressured by weekend protests that raised concerns about increased government spending. Asian markets were mixed."
+      },
+      "key_drivers": [
+        {
+          "title": "Tech/AI rebound",
+          "text": "Investors bought back beaten-down AI and semiconductor names after last week’s sharp sell-off driven by debt and sustainability concerns. The Philadelphia semiconductor index snapped an eight-day losing streak."
+        },
+        {
+          "title": "Narrow leadership",
+          "text": "Gains were concentrated in technology and growth stocks, while the majority of the market lagged, leaving the Dow slightly lower."
+        },
+        {
+          "title": "Upcoming earnings",
+          "text": "Markets positioned ahead of a heavy week of major technology and AI-related reports (including names such as Meta and Tesla)."
+        },
+        {
+          "title": "Global pressures",
+          "text": "European weakness related to protests and potential fiscal expansion contributed to higher yields worldwide."
+        },
+        {
+          "title": "Broader backdrop",
+          "text": "Residual caution from last week’s hotter inflation data (CPI and PPI) and elevated oil prices continued to influence sentiment, though the focus shifted toward corporate results."
+        }
+      ],
+      "overall_tone": "Selective recovery led by technology. AI and chip stocks bounced after a rough week, lifting the Nasdaq and S&P 500, while the rest of the market remained cautious. Attention turns to this week’s key earnings reports that could determine whether the rebound broadens or remains concentrated."
+    },
+    {
       "timestamp": "2026-10-16T20:00:00+00:00",
       "header": "Friday, October 16, 2026's Report",
       "headline": "On Friday, October 16, 2026, U.S. stocks closed lower, with technology and semiconductor shares leading the decline.",
@@ -255,7 +341,9 @@
         }
       ],
       "overall_tone": "Risk-off and inflation-driven. The hotter CPI print shifted rate expectations higher, pressuring rate-sensitive growth and AI stocks while supporting a modest defensive shift. Markets remain focused on the Fed’s next policy decision and further economic data, with elevated yields and energy costs continuing to influence sentiment."
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-12T20:00:00+00:00",
       "header": "Monday, October 12, 2026's Report",
@@ -339,9 +427,7 @@
         }
       ],
       "overall_tone": "Quiet and mixed start to the week. The Dow’s gain contrasted with modest declines in the S&P 500 and Nasdaq amid technology weakness and rising oil prices. With bond markets closed and volume light, investors positioned ahead of major bank results and inflation reports that could influence rate expectations and market direction."
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-09T20:00:00+00:00",
       "header": "Friday, October 9, 2026's Report",
