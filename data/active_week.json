@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-10-28T20:00:00+00:00",
+    "header": "Wednesday, October 28, 2026's Report",
+    "headline": "On Wednesday, October 28, 2026, U.S. stocks closed modestly higher after the Federal Reserve held its benchmark interest rate steady, as widely expected.",
+    "summary": "On Wednesday, October 28, 2026, U.S. stocks closed modestly higher after the Federal Reserve held its benchmark interest rate steady, as widely expected. The bond market saw notable swings while equities remained relatively steady.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "52,475.10",
+          "change": "+97.53 points",
+          "pct": "+0.2%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,743.98",
+          "change": "+21.38 points",
+          "pct": "+0.3%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "26,549.85",
+          "change": "+72.04 points",
+          "pct": "+0.3%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,830.51",
+          "change": "+11.64 points",
+          "pct": "+0.4%",
+          "notes": ""
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Treasury yields were volatile. The two-year yield initially rose after the Fed announcement (which included two dissents favoring a rate hike) before reversing lower as traders scaled back expectations for near-term increases. The 10-year yield moved higher overall, trading around or just above 5%.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices rose, with both WTI and Brent climbing amid renewed Middle East supply concerns (including reports of an attack on a Saudi refinery). Gold was little changed to slightly lower.",
+      "oil": "Oil prices rose, with both WTI and Brent climbing amid renewed Middle East supply concerns (including reports of an attack on a Saudi refinery).",
+      "gold": "Gold was little changed to slightly lower."
+    },
+    "currencies": {
+      "summary": "Markets digested the Fed’s decision and looked ahead to major tech earnings."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "International equities generally held gains following the U.S. central bank’s announcement."
+    },
+    "key_drivers": [
+      {
+        "title": "Federal Reserve decision",
+        "text": "The Fed kept the federal funds rate in the 3.75%–4.00% range. The decision was not unanimous, with two officials dissenting in favor of a quarter-point hike. The statement noted elevated inflation and a strong economy, leaving open the possibility of further tightening."
+      },
+      {
+        "title": "Bond market reaction",
+        "text": "Yields swung as traders adjusted rate-path expectations after the vote and the subsequent press conference."
+      },
+      {
+        "title": "Steady equity response",
+        "text": "Stocks held gains modestly, with limited volatility despite the policy announcement."
+      },
+      {
+        "title": "Oil rebound",
+        "text": "Crude prices moved higher on geopolitical developments, partially offsetting earlier softness."
+      },
+      {
+        "title": "Ongoing themes",
+        "text": "Focus remained on AI-related stocks, upcoming earnings (including major technology names), and the inflation outlook."
+      }
+    ],
+    "overall_tone": "Calm close after the Fed held rates steady. Equities posted small gains for a third straight session while the bond market absorbed the policy decision and mixed signals on the future path of rates. Attention now turns to earnings and incoming inflation data."
+  },
+  {
     "timestamp": "2026-10-27T20:00:00+00:00",
     "header": "Tuesday, October 27, 2026's Report",
     "headline": "On Tuesday, October 27, 2026, U.S. stocks closed higher, led by technology and AI-related shares.",
@@ -338,91 +422,5 @@
       }
     ],
     "overall_tone": "Risk-off session led by technology weakness. AI-related concerns resurfaced despite some earnings beats, driving the Nasdaq and S&P 500 lower while the Dow and small-caps held up better. Elevated oil prices and a flight into Treasuries underscored caution heading into the end of the week."
-  },
-  {
-    "timestamp": "2026-10-21T20:00:00+00:00",
-    "header": "Wednesday, October 21, 2026's Report",
-    "headline": "On Wednesday, October 21, 2026, U.S. stocks climbed across the board, with technology leading the advance.",
-    "summary": "On Wednesday, October 21, 2026, U.S. stocks climbed across the board, with technology leading the advance. The S&P 500 moved closer to its recent record high, supported by strong corporate earnings reports.",
-    "us_equities": {
-      "indices": [
-        {
-          "name": "Dow Jones Industrial Average",
-          "value": "52,856.09",
-          "change": "+360.21 points",
-          "pct": "+0.7%",
-          "notes": ""
-        },
-        {
-          "name": "S&P 500",
-          "value": "7,757.17",
-          "change": "+44.60 points",
-          "pct": "+0.6%",
-          "notes": ""
-        },
-        {
-          "name": "Nasdaq Composite",
-          "value": "26,702.86",
-          "change": "+278.04 points",
-          "pct": "+1.1%",
-          "notes": ""
-        },
-        {
-          "name": "Russell 2000",
-          "value": "2,781.02",
-          "change": "+7.60 points",
-          "pct": "+0.3%",
-          "notes": ""
-        }
-      ],
-      "volatility": "",
-      "breadth": "",
-      "sectors": "Industrials and energy performed well among sectors, while communication services lagged (pressured by Netflix and similar names facing growth concerns).",
-      "notable_movers": [],
-      "other": ""
-    },
-    "bonds": {
-      "summary": "Treasury yields rose modestly. The 10-year yield moved higher to around 5.14–5.15%.",
-      "yields": [
-        "10-year: 5.14–5.15%"
-      ],
-      "notes": ""
-    },
-    "commodities": {
-      "summary": "Oil prices were mixed to firmer amid ongoing Middle East supply concerns. Gold was relatively steady to slightly higher in some readings.",
-      "oil": "",
-      "gold": "Gold was relatively steady to slightly higher in some readings."
-    },
-    "currencies": {
-      "summary": "The VIX volatility index declined further, reflecting calmer conditions. The U.S. dollar was little changed."
-    },
-    "global_markets": {
-      "asia": "",
-      "europe": "",
-      "summary": "European markets saw some pressure related to fiscal concerns in France, where yields rose notably."
-    },
-    "key_drivers": [
-      {
-        "title": "Strong earnings leadership",
-        "text": "SpaceX’s better-than-expected results reinvigorated sentiment around the AI trade and capital spending, helping technology and related stocks outperform."
-      },
-      {
-        "title": "Broader corporate support",
-        "text": "Positive reports from Capital One and other firms contributed to the advance across multiple sectors."
-      },
-      {
-        "title": "Tech rebound continues",
-        "text": "After recent volatility, AI and semiconductor-linked names regained ground, driving the Nasdaq higher."
-      },
-      {
-        "title": "Yields and oil backdrop",
-        "text": "Modestly higher Treasury yields did not derail equity gains, while energy prices remained elevated on geopolitical risks."
-      },
-      {
-        "title": "Market positioning",
-        "text": "The S&P 500 closed at its highest level since mid-October and continued to recover toward the early-month record."
-      }
-    ],
-    "overall_tone": "Positive session with broad participation and strong leadership from technology. Solid earnings, particularly from SpaceX, helped restore confidence in the AI theme and lifted major indexes. Attention remains focused on the ongoing earnings season and developments in energy and interest rates."
   }
 ]
