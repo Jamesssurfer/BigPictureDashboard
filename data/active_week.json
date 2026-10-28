@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-10-27T20:00:00+00:00",
+    "header": "Tuesday, October 27, 2026's Report",
+    "headline": "On Tuesday, October 27, 2026, U.S. stocks closed higher, led by technology and AI-related shares.",
+    "summary": "On Tuesday, October 27, 2026, U.S. stocks closed higher, led by technology and AI-related shares. The Nasdaq outperformed as chipmakers advanced, while the Dow was nearly flat. Gains came ahead of the Federal Reserve’s policy decision and amid a pullback in oil prices.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "52,377.57",
+          "change": "",
+          "pct": "",
+          "notes": "–52,377.60, up about 16 points (+0.03%)."
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,722.60",
+          "change": "+45.83 points",
+          "pct": "+0.6%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "26,477.81",
+          "change": "+308.43 points",
+          "pct": "+1.2%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,818.87",
+          "change": "+32.45 points",
+          "pct": "+1.2%",
+          "notes": ""
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Treasury yields held relatively steady. The 10-year yield traded near 4.99–5.00% ahead of the Federal Reserve’s announcement.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices eased for a second session, with both WTI and Brent declining roughly 1–2% from recent highs, though levels remained elevated. Gold rose.",
+      "oil": "Oil prices eased for a second session, with both WTI and Brent declining roughly 1–2% from recent highs, though levels remained elevated.",
+      "gold": "Gold rose."
+    },
+    "currencies": {
+      "summary": "The VIX volatility index declined. Markets focused on the ongoing Fed meeting and the heavy earnings calendar."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "Trading was generally supportive of risk assets as oil pressure moderated."
+    },
+    "key_drivers": [
+      {
+        "title": "AI and chip strength",
+        "text": "Continued momentum in artificial intelligence names, highlighted by Broadcom’s financing announcement linked to Anthropic, propelled the Nasdaq and supported the S&P 500."
+      },
+      {
+        "title": "Narrow market breadth",
+        "text": "Most individual stocks declined, but mega-cap tech gains were large enough to lift the major indexes."
+      },
+      {
+        "title": "Easing oil prices",
+        "text": "A pullback in crude supported risk appetite by reducing some inflation concerns."
+      },
+      {
+        "title": "Earnings and Fed focus",
+        "text": "Investors digested corporate results (positive for cruise lines, mixed elsewhere) while positioning ahead of the Federal Reserve’s rate decision."
+      },
+      {
+        "title": "Second consecutive advance",
+        "text": "The S&P 500 and Nasdaq extended gains from the prior session."
+      }
+    ],
+    "overall_tone": "Tech-led advance with limited breadth. AI-related optimism and softer oil prices helped major indexes rise for a second day, even as many stocks lagged. Attention remained centered on the Federal Reserve’s policy announcement and the continuing wave of corporate earnings."
+  },
+  {
     "timestamp": "2026-10-26T20:00:00+00:00",
     "header": "Monday, October 26, 2026's Report",
     "headline": "On Monday, October 26, 2026, U.S. stocks closed higher, with technology and AI-related shares leading the rebound after recent volatility.",
