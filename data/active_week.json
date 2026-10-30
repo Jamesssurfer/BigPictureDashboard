@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-10-29T20:00:00+00:00",
+    "header": "Thursday, October 29, 2026's Report",
+    "headline": "On Thursday, October 29, 2026, U.S. stocks closed lower, snapped a multi-day winning streak for the major averages, and were led lower by a sharp decline in Alphabet.",
+    "summary": "On Thursday, October 29, 2026, U.S. stocks closed lower, snapped a multi-day winning streak for the major averages, and were led lower by a sharp decline in Alphabet. The Nasdaq underperformed while small-caps rose.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "52,342.56",
+          "change": "-132.54 points",
+          "pct": "-0.25%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,720.39",
+          "change": "-23.59 points",
+          "pct": "-0.3%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "26,184.72",
+          "change": "-365.13 points",
+          "pct": "-1.4%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,859.22",
+          "change": "+28.71 points",
+          "pct": "+1.0%",
+          "notes": ""
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "Communication services and technology led the decliners, while health care and real estate were among the stronger sectors.",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Treasury yields fell. The move reflected a modest easing in rate expectations after the prior day’s Fed decision and the equity market reaction.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices were mixed to slightly lower as diplomatic efforts regarding Middle East tensions offset some supply concerns. Gold was little changed to modestly lower.",
+      "oil": "",
+      "gold": "Gold was little changed to modestly lower."
+    },
+    "currencies": {
+      "summary": "Volatility ticked higher as tech shares sold off. Focus remained on the implications of large AI capital expenditures."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "International equities were mixed, with some support from European central bank decisions earlier in the session."
+    },
+    "key_drivers": [
+      {
+        "title": "Alphabet earnings",
+        "text": "Google’s parent company reported softer growth than expected and underscored the heavy cash burn tied to AI investments. The stock’s historic decline was the dominant force behind the day’s market moves and reignited concerns about the return on massive AI spending."
+      },
+      {
+        "title": "Narrow market breadth in reverse",
+        "text": "While most stocks advanced, the outsized drop in a few mega-cap names (especially Alphabet) caused the capitalization-weighted indexes to fall."
+      },
+      {
+        "title": "AI investment scrutiny",
+        "text": "Investors continued to debate whether the enormous capital outlays by tech giants would translate into sustainable profits."
+      },
+      {
+        "title": "Post-Fed positioning",
+        "text": "Markets digested the previous day’s rate hold while absorbing strong economic data (including solid GDP growth) alongside the earnings miss."
+      },
+      {
+        "title": "Sector rotation",
+        "text": "Defensive and non-tech areas, along with small-caps, outperformed as money rotated away from the largest AI-related names."
+      }
+    ],
+    "overall_tone": "Tech-led decline driven by Alphabet. The major indexes fell for the first time in several sessions even as the majority of stocks rose, highlighting the continued concentration risk in a handful of mega-cap AI names. Attention remains on upcoming earnings and the sustainability of AI-driven capital spending."
+  },
+  {
     "timestamp": "2026-10-28T20:00:00+00:00",
     "header": "Wednesday, October 28, 2026's Report",
     "headline": "On Wednesday, October 28, 2026, U.S. stocks closed modestly higher after the Federal Reserve held its benchmark interest rate steady, as widely expected.",
