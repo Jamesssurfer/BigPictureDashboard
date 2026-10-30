@@ -1,6 +1,92 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-10-23T20:00:00+00:00",
+      "header": "Friday, October 23, 2026's Report",
+      "headline": "On Friday, October 23, 2026, U.S. stocks closed lower under pressure from rising oil prices, ending a volatile week.",
+      "summary": "On Friday, October 23, 2026, U.S. stocks closed lower under pressure from rising oil prices, ending a volatile week. Technology shares steadied somewhat after the prior session’s sharp selloff, while energy stocks gained.",
+      "us_equities": {
+        "indices": [
+          {
+            "name": "Dow Jones Industrial Average",
+            "value": "52,215.16",
+            "change": "-652.82 points",
+            "pct": "-1.2%",
+            "notes": ""
+          },
+          {
+            "name": "S&P 500",
+            "value": "7,623.68",
+            "change": "-39.75 points",
+            "pct": "-0.5%",
+            "notes": ""
+          },
+          {
+            "name": "Nasdaq Composite",
+            "value": "25,955.34",
+            "change": "-53.52 points",
+            "pct": "-0.2%",
+            "notes": ""
+          },
+          {
+            "name": "Russell 2000",
+            "value": "2,775.90",
+            "change": "-8.13 points",
+            "pct": "-0.3%",
+            "notes": ""
+          }
+        ],
+        "volatility": "",
+        "breadth": "",
+        "sectors": "",
+        "notable_movers": [],
+        "other": ""
+      },
+      "bonds": {
+        "summary": "The 10-year Treasury yield rose to around 4.99%, recovering some of the prior day’s sharp decline as the flight-to-safety demand eased somewhat.",
+        "yields": [
+          "10-year: 4.99%"
+        ],
+        "notes": ""
+      },
+      "commodities": {
+        "summary": "Oil prices climbed further, with Brent crude rising more than 3% to above $116 a barrel—its highest level since mid-2022—amid ongoing Middle East supply concerns and Houthi-related attacks. Gold declined.",
+        "oil": "Oil prices climbed further, with Brent crude rising more than 3% to above $116 a barrel—its highest level since mid-2022—amid ongoing Middle East supply concerns and Houthi-related attacks.",
+        "gold": "Gold declined."
+      },
+      "currencies": {
+        "summary": "The VIX volatility index edged higher. Markets looked ahead to a busy week of corporate earnings and the Federal Reserve’s policy meeting."
+      },
+      "global_markets": {
+        "asia": "",
+        "europe": "",
+        "summary": "European markets closed mostly lower, though French government bond yields eased slightly."
+      },
+      "key_drivers": [
+        {
+          "title": "Rising oil prices",
+          "text": "Brent’s surge to multi-year highs intensified inflation concerns and weighed on broader equities outside of the energy sector."
+        },
+        {
+          "title": "Tech stabilization",
+          "text": "After Thursday’s AI-driven selloff, technology shares recovered modestly, helping limit Nasdaq losses."
+        },
+        {
+          "title": "Sector rotation",
+          "text": "Energy outperformed while consumer-oriented and telecom names lagged; selling broadened beyond pure tech."
+        },
+        {
+          "title": "Weekly performance",
+          "text": "The S&P 500 and Nasdaq ended the week lower, while the Dow posted a modest weekly gain (its third consecutive up week)."
+        },
+        {
+          "title": "Forward focus",
+          "text": "Attention turned to next week’s heavy earnings calendar (including major tech names) and the upcoming Fed meeting."
+        }
+      ],
+      "overall_tone": "Cautious close to a rocky week. Elevated oil prices exerted downward pressure across most indices, even as technology showed signs of stabilizing. Investors remained focused on energy geopolitics, AI spending concerns, and upcoming policy and earnings catalysts."
+    },
+    {
       "timestamp": "2026-10-22T20:00:00+00:00",
       "header": "Thursday, October 22, 2026's Report",
       "headline": "On Thursday, October 22, 2026, U.S. stocks closed mixed, with a sharp selloff in technology and AI-related shares dragging the S&P 500 and Nasdaq lower.",
@@ -341,7 +427,9 @@
         }
       ],
       "overall_tone": "Selective recovery led by technology. AI and chip stocks bounced after a rough week, lifting the Nasdaq and S&P 500, while the rest of the market remained cautious. Attention turns to this week’s key earnings reports that could determine whether the rebound broadens or remains concentrated."
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-16T20:00:00+00:00",
       "header": "Friday, October 16, 2026's Report",
@@ -425,9 +513,7 @@
         }
       ],
       "overall_tone": "Risk-off close driven by technology weakness. Stocks finished lower to end a down week for the major growth-oriented indexes, while energy provided a bright spot. Attention remains on the durability of AI-related valuations, sticky inflation data, and the Federal Reserve’s policy path heading into the next week."
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-15T20:00:00+00:00",
       "header": "Thursday, October 15, 2026's Report",
@@ -1275,7 +1361,9 @@
         }
       ],
       "overall_tone": "Cautiously positive to start October. Equities managed modest gains after yields retreated from extreme levels, with AI-related and software strength providing support. Markets remained sensitive to bond-market swings, oil prices, and the upcoming employment report as key near-term catalysts."
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-09-30T20:00:00+00:00",
       "header": "Wednesday, September 30, 2026's Report",
@@ -1359,9 +1447,7 @@
         }
       ],
       "overall_tone": "Mixed and choppy on the final day of the month and quarter. Soft inflation provided temporary relief and boosted the Nasdaq, but resilient growth data and high long-term yields limited broader gains. Markets closed the period with the S&P 500 and Nasdaq still higher for the quarter, while investors looked ahead to upcoming labor market data for further clues on the economic and policy outlook."
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-29T20:00:00+00:00",
       "header": "Tuesday, September 29, 2026's Report",
