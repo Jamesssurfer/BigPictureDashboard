@@ -1277,7 +1277,9 @@
         }
       ],
       "overall_tone": "Risk-on to close the week. Soft jobs data provided a clear catalyst for lower rate-hike expectations and a broad equity rally, allowing the Nasdaq to hit a fresh record and the S&P 500 to approach its all-time high. Markets remained focused on the interplay between labor-market cooling, still-elevated long-term yields, and oil-price volatility as key influences on the Fed’s path."
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-01T20:00:00+00:00",
       "header": "Thursday, October 1, 2026's Report",
@@ -1361,9 +1363,7 @@
         }
       ],
       "overall_tone": "Cautiously positive to start October. Equities managed modest gains after yields retreated from extreme levels, with AI-related and software strength providing support. Markets remained sensitive to bond-market swings, oil prices, and the upcoming employment report as key near-term catalysts."
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-09-30T20:00:00+00:00",
       "header": "Wednesday, September 30, 2026's Report",
