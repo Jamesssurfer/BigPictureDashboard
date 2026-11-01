@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-10-30T20:00:00+00:00",
+    "header": "Friday, October 30, 2026's Report",
+    "headline": "On Friday, October 30, 2026, U.S. stocks closed sharply lower in a broad tech-led sell-off, with the Nasdaq suffering its worst day since June.",
+    "summary": "On Friday, October 30, 2026, U.S. stocks closed sharply lower in a broad tech-led sell-off, with the Nasdaq suffering its worst day since June. Concerns about elevated valuations and heavy AI-related spending intensified following weak guidance from Intel and ongoing fallout from recent big-tech earnings.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "51,770.31",
+          "change": "-572.25 points",
+          "pct": "-1.1%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,580.07",
+          "change": "-140.32 points",
+          "pct": "-1.8%",
+          "notes": "— its biggest one-day drop since early June."
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "25,437.00",
+          "change": "-747.73 points",
+          "pct": "-2.9%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,811.84",
+          "change": "-47.37 points",
+          "pct": "-1.7%",
+          "notes": ""
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Treasury yields fell as investors sought safer assets amid the equity sell-off. The 10-year yield moved lower, reflecting a flight-to-quality bid.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices rose despite the risk-off tone in equities. Gold was mixed to slightly lower.",
+      "oil": "",
+      "gold": "Gold was mixed to slightly lower."
+    },
+    "currencies": {
+      "summary": "Volatility increased as capital rotated out of high-valuation tech names. Month-end positioning and upcoming midterm elections added to the cautious tone."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "International equities were mixed, with some support in Europe, but the U.S. tech-driven decline set a negative tone heading into the weekend."
+    },
+    "key_drivers": [
+      {
+        "title": "Intensifying AI and tech sell-off",
+        "text": "Weak guidance from Intel and continued scrutiny of large AI spending (following Alphabet’s miss earlier in the week and Amazon’s results) drove heavy selling in semiconductors and growth stocks."
+      },
+      {
+        "title": "Valuation concerns",
+        "text": "Investors questioned whether the AI investment boom had pushed prices too high relative to near-term returns."
+      },
+      {
+        "title": "Flight to safety",
+        "text": "Bond yields declined as money moved out of equities into Treasuries."
+      },
+      {
+        "title": "Sector divergence",
+        "text": "Energy and select defensive sectors rose while technology and growth areas led the declines."
+      },
+      {
+        "title": "Month-end and calendar factors",
+        "text": "Profit-taking ahead of month-end and political events contributed to the risk-off mood."
+      }
+    ],
+    "overall_tone": "Sharp tech-driven decline to close the week and the month. The Nasdaq’s steep drop highlighted renewed skepticism about AI-related valuations and capital intensity, while safer assets and energy provided relative resilience. Markets closed the month with the Nasdaq notably weaker and investors more cautious on mega-cap growth names."
+  },
+  {
     "timestamp": "2026-10-29T20:00:00+00:00",
     "header": "Thursday, October 29, 2026's Report",
     "headline": "On Thursday, October 29, 2026, U.S. stocks closed lower, snapped a multi-day winning streak for the major averages, and were led lower by a sharp decline in Alphabet.",
