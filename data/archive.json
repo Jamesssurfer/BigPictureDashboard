@@ -1193,7 +1193,9 @@
         }
       ],
       "overall_tone": "Constructive and tech-led to start the week. The Nasdaq’s record close and the S&P 500’s approach to its all-time high reflected resilience in growth and AI-related names, even as elevated bond yields and residual geopolitical/oil uncertainty remained in the background. Markets looked ahead to earnings and Fed communications for the next catalysts."
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-02T20:00:00+00:00",
       "header": "Friday, October 2, 2026's Report",
@@ -1277,9 +1279,7 @@
         }
       ],
       "overall_tone": "Risk-on to close the week. Soft jobs data provided a clear catalyst for lower rate-hike expectations and a broad equity rally, allowing the Nasdaq to hit a fresh record and the S&P 500 to approach its all-time high. Markets remained focused on the interplay between labor-market cooling, still-elevated long-term yields, and oil-price volatility as key influences on the Fed’s path."
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-01T20:00:00+00:00",
       "header": "Thursday, October 1, 2026's Report",
