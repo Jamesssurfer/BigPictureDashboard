@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-11-03T20:00:00+00:00",
+    "header": "Tuesday, November 3, 2026's Report",
+    "headline": "On Tuesday, November 3, 2026 (U.S. midterm Election Day), stocks closed mixed.",
+    "summary": "On Tuesday, November 3, 2026 (U.S. midterm Election Day), stocks closed mixed. The S&P 500 and Nasdaq advanced on a rebound in chip and AI-related shares, while the Dow declined, pressured by weakness in Apple.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "51,786.72",
+          "change": "-197.26 points",
+          "pct": "-0.4%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,568.92",
+          "change": "+27.52 points",
+          "pct": "+0.4%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "25,372.01",
+          "change": "+207.65 points",
+          "pct": "+0.8%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,812.45",
+          "change": "+6.57 points",
+          "pct": "+0.2%",
+          "notes": ""
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "Technology and industrials were the strongest sectors; materials and consumer staples lagged.",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Treasury yields rose after a stronger-than-expected JOLTS job openings report signaled continued labor-market strength. The 10-year yield moved higher (around the mid-to-high 4.90s area).",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices sank further amid ongoing hopes for diplomatic progress related to the U.S.-Iran situation, reaching multi-week lows in some benchmarks. Gold was mixed to lower amid higher yields.",
+      "oil": "",
+      "gold": "Gold was mixed to lower amid higher yields."
+    },
+    "currencies": {
+      "summary": "The dollar firmed slightly on the stronger jobs data and higher yields. Markets remained cautious ahead of election results and the remainder of the week’s data calendar."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "International equities were mixed. Attention focused on U.S. political developments and residual energy-price volatility."
+    },
+    "key_drivers": [
+      {
+        "title": "Tech rebound",
+        "text": "Chip and AI-related stocks bounced after the prior week’s sell-off, offsetting Apple’s weakness and supporting the Nasdaq and S&P 500."
+      },
+      {
+        "title": "Apple pressure",
+        "text": "Shares declined after the company flagged higher memory-chip costs that could squeeze margins."
+      },
+      {
+        "title": "Election Day trading",
+        "text": "Markets digested voting-day uncertainty with a split performance across the major averages."
+      },
+      {
+        "title": "Labor data",
+        "text": "Stronger job openings (JOLTS) pushed yields higher and reinforced the view of a resilient economy."
+      },
+      {
+        "title": "Oil softness",
+        "text": "Continued declines in crude prices provided some inflation relief but weighed on energy stocks."
+      }
+    ],
+    "overall_tone": "Mixed but constructive for technology. A rebound in semiconductors and AI names helped the Nasdaq and S&P 500 recover some ground, while Apple and the Dow lagged. Stronger labor data lifted yields, and oil remained under pressure on diplomatic hopes. Markets closed cautiously as election results began to emerge."
+  },
+  {
     "timestamp": "2026-11-02T20:00:00+00:00",
     "header": "Monday, November 2, 2026's Report",
     "headline": "On Monday, November 2, 2026, U.S. stocks closed mixed.",
@@ -334,89 +418,5 @@
       }
     ],
     "overall_tone": "Calm close after the Fed held rates steady. Equities posted small gains for a third straight session while the bond market absorbed the policy decision and mixed signals on the future path of rates. Attention now turns to earnings and incoming inflation data."
-  },
-  {
-    "timestamp": "2026-10-27T20:00:00+00:00",
-    "header": "Tuesday, October 27, 2026's Report",
-    "headline": "On Tuesday, October 27, 2026, U.S. stocks closed higher, led by technology and AI-related shares.",
-    "summary": "On Tuesday, October 27, 2026, U.S. stocks closed higher, led by technology and AI-related shares. The Nasdaq outperformed as chipmakers advanced, while the Dow was nearly flat. Gains came ahead of the Federal Reserve’s policy decision and amid a pullback in oil prices.",
-    "us_equities": {
-      "indices": [
-        {
-          "name": "Dow Jones Industrial Average",
-          "value": "52,377.57",
-          "change": "",
-          "pct": "",
-          "notes": "–52,377.60, up about 16 points (+0.03%)."
-        },
-        {
-          "name": "S&P 500",
-          "value": "7,722.60",
-          "change": "+45.83 points",
-          "pct": "+0.6%",
-          "notes": ""
-        },
-        {
-          "name": "Nasdaq Composite",
-          "value": "26,477.81",
-          "change": "+308.43 points",
-          "pct": "+1.2%",
-          "notes": ""
-        },
-        {
-          "name": "Russell 2000",
-          "value": "2,818.87",
-          "change": "+32.45 points",
-          "pct": "+1.2%",
-          "notes": ""
-        }
-      ],
-      "volatility": "",
-      "breadth": "",
-      "sectors": "",
-      "notable_movers": [],
-      "other": ""
-    },
-    "bonds": {
-      "summary": "Treasury yields held relatively steady. The 10-year yield traded near 4.99–5.00% ahead of the Federal Reserve’s announcement.",
-      "yields": [],
-      "notes": ""
-    },
-    "commodities": {
-      "summary": "Oil prices eased for a second session, with both WTI and Brent declining roughly 1–2% from recent highs, though levels remained elevated. Gold rose.",
-      "oil": "Oil prices eased for a second session, with both WTI and Brent declining roughly 1–2% from recent highs, though levels remained elevated.",
-      "gold": "Gold rose."
-    },
-    "currencies": {
-      "summary": "The VIX volatility index declined. Markets focused on the ongoing Fed meeting and the heavy earnings calendar."
-    },
-    "global_markets": {
-      "asia": "",
-      "europe": "",
-      "summary": "Trading was generally supportive of risk assets as oil pressure moderated."
-    },
-    "key_drivers": [
-      {
-        "title": "AI and chip strength",
-        "text": "Continued momentum in artificial intelligence names, highlighted by Broadcom’s financing announcement linked to Anthropic, propelled the Nasdaq and supported the S&P 500."
-      },
-      {
-        "title": "Narrow market breadth",
-        "text": "Most individual stocks declined, but mega-cap tech gains were large enough to lift the major indexes."
-      },
-      {
-        "title": "Easing oil prices",
-        "text": "A pullback in crude supported risk appetite by reducing some inflation concerns."
-      },
-      {
-        "title": "Earnings and Fed focus",
-        "text": "Investors digested corporate results (positive for cruise lines, mixed elsewhere) while positioning ahead of the Federal Reserve’s rate decision."
-      },
-      {
-        "title": "Second consecutive advance",
-        "text": "The S&P 500 and Nasdaq extended gains from the prior session."
-      }
-    ],
-    "overall_tone": "Tech-led advance with limited breadth. AI-related optimism and softer oil prices helped major indexes rise for a second day, even as many stocks lagged. Attention remained centered on the Federal Reserve’s policy announcement and the continuing wave of corporate earnings."
   }
 ]
