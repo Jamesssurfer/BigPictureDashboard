@@ -1275,7 +1275,9 @@
         }
       ],
       "overall_tone": "Constructive close to a volatile but ultimately positive week for equities. Stocks shook off recent pressure from elevated yields and oil prices, with technology recovering and the S&P 500 nearing its recent peak. Markets remained sensitive to energy developments and the path of interest rates heading into earnings season."
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-08T20:00:00+00:00",
       "header": "Thursday, October 8, 2026's Report",
@@ -1359,9 +1361,7 @@
         }
       ],
       "overall_tone": "Uneasy and mixed. The session featured sharp reversals in oil and yields, with technology weakness pulling the Nasdaq and S&P 500 lower even as the Dow managed a small gain and most stocks advanced. Elevated energy prices and lingering rate concerns continued to challenge the recent equity rally."
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-07T20:00:00+00:00",
       "header": "Wednesday, October 7, 2026's Report",
