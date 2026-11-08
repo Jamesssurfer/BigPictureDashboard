@@ -1189,7 +1189,9 @@
         }
       ],
       "overall_tone": "Quiet and mixed start to the week. The Dow’s gain contrasted with modest declines in the S&P 500 and Nasdaq amid technology weakness and rising oil prices. With bond markets closed and volume light, investors positioned ahead of major bank results and inflation reports that could influence rate expectations and market direction."
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-09T20:00:00+00:00",
       "header": "Friday, October 9, 2026's Report",
@@ -1275,9 +1277,7 @@
         }
       ],
       "overall_tone": "Constructive close to a volatile but ultimately positive week for equities. Stocks shook off recent pressure from elevated yields and oil prices, with technology recovering and the S&P 500 nearing its recent peak. Markets remained sensitive to energy developments and the path of interest rates heading into earnings season."
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-08T20:00:00+00:00",
       "header": "Thursday, October 8, 2026's Report",
