@@ -1,5 +1,91 @@
 [
   {
+    "timestamp": "2026-11-09T20:00:00+00:00",
+    "header": "Monday, November 9, 2026's Report",
+    "headline": "November 9, 2026.",
+    "summary": "November 9, 2026.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "52,389.75",
+          "change": "+1,104.02 points",
+          "pct": "+2.2%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,549.94",
+          "change": "+173.08 points",
+          "pct": "+2.3%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "25,253.14",
+          "change": "+673.71 points",
+          "pct": "+2.7%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,840.81",
+          "change": "+86.71 points",
+          "pct": "+3.1%",
+          "notes": ""
+        }
+      ],
+      "volatility": "Small-caps outperformed, and the VIX declined meaningfully as volatility eased.",
+      "breadth": "",
+      "sectors": "The advance was widespread, with all 11 S&P 500 sectors finishing in positive territory.",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Treasury yields were mixed to slightly firmer in some reports (10-year around 4.88%), with lower oil prices providing some offsetting support. Markets continued to price a high probability of further Fed tightening.",
+      "yields": [
+        "10-year: 4.88%"
+      ],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices declined sharply (Brent down roughly 5.8%), which helped ease inflation concerns and lifted equity sentiment. Gold advanced about 1.7%, closing near $4,140.",
+      "oil": "Oil prices declined sharply (Brent down roughly 5.8%), which helped ease inflation concerns and lifted equity sentiment.",
+      "gold": "Gold advanced about 1.7%, closing near $4,140."
+    },
+    "currencies": {
+      "summary": "The dollar was softer. Risk assets broadly recovered as investors engaged in dip-buying after the previous week’s AI- and midterm-related sell-off."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "International equities generally followed the positive U.S. lead, with technology and risk-sensitive names recovering."
+    },
+    "key_drivers": [
+      {
+        "title": "Oil price decline",
+        "text": "A sharp drop in crude (linked in part to reports around Iran/Middle East developments) reduced inflation fears and supported risk appetite."
+      },
+      {
+        "title": "Broad dip-buying",
+        "text": "Investors stepped in after the prior week’s heavy losses tied to midterm election outcomes and concerns over potential AI/data-center regulation."
+      },
+      {
+        "title": "Semiconductor rebound (ex-Nvidia)",
+        "text": "Chip stocks recovered strongly even as Nvidia lagged on the internal probe news."
+      },
+      {
+        "title": "Sector breadth",
+        "text": "Gains extended across industrials, discretionary, technology, and other areas, signaling improved risk sentiment."
+      },
+      {
+        "title": "Post-volatility stabilization",
+        "text": "The session marked a continuation of Friday’s partial recovery and helped claw back more of the previous week’s damage."
+      }
+    ],
+    "overall_tone": "Strong risk-on rebound. Lower oil prices and aggressive dip-buying drove a broad rally that more than offset Nvidia-specific weakness, delivering the market’s best session in months."
+  },
+  {
     "timestamp": "2026-11-06T20:00:00+00:00",
     "header": "Friday, November 6, 2026's Report",
     "headline": "On Friday, November 6, 2026, U.S. stocks closed mixed as technology and AI-related shares rebounded from the previous day’s sharp sell-off.",
