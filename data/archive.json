@@ -1,6 +1,90 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-04T20:00:00+00:00",
+      "header": "Wednesday, November 4, 2026's Report",
+      "headline": "On Wednesday, November 4, 2026, U.S. stocks surged in a broad rally following the midterm elections, in which Democrats gained control of Congress.",
+      "summary": "On Wednesday, November 4, 2026, U.S. stocks surged in a broad rally following the midterm elections, in which Democrats gained control of Congress. The Dow posted its strongest post-midterm performance in decades, while oil prices tumbled sharply.",
+      "us_equities": {
+        "indices": [
+          {
+            "name": "Dow Jones Industrial Average",
+            "value": "53,356.12",
+            "change": "+1,569.40 points",
+            "pct": "+3.0%",
+            "notes": ""
+          },
+          {
+            "name": "S&P 500",
+            "value": "7,688.62",
+            "change": "+119.70 points",
+            "pct": "+1.6%",
+            "notes": ""
+          },
+          {
+            "name": "Nasdaq Composite",
+            "value": "25,736.51",
+            "change": "+364.50 points",
+            "pct": "+1.4%",
+            "notes": ""
+          },
+          {
+            "name": "Russell 2000",
+            "value": "2,856.95",
+            "change": "+44.50 points",
+            "pct": "+1.6%",
+            "notes": ""
+          }
+        ],
+        "volatility": "",
+        "breadth": "",
+        "sectors": "",
+        "notable_movers": [],
+        "other": ""
+      },
+      "bonds": {
+        "summary": "Treasury yields declined as oil prices fell and investors assessed the implications of a divided government. The 10-year yield moved lower.",
+        "yields": [],
+        "notes": ""
+      },
+      "commodities": {
+        "summary": "Oil prices tumbled sharply (WTI down more than 8% in some reports), driven by hopes that the election outcome could ease geopolitical tensions related to the Middle East conflict. Gold rose.",
+        "oil": "Oil prices tumbled sharply (WTI down more than 8% in some reports), driven by hopes that the election outcome could ease geopolitical tensions related to the Middle East conflict.",
+        "gold": "Gold rose."
+      },
+      "currencies": {
+        "summary": "The dollar weakened modestly. Volatility declined as election uncertainty lifted."
+      },
+      "global_markets": {
+        "asia": "",
+        "europe": "",
+        "summary": "International equities generally followed the positive U.S. lead, supported by the sharp drop in energy prices."
+      },
+      "key_drivers": [
+        {
+          "title": "Midterm election outcome",
+          "text": "Markets rallied after Democrats gained control of Congress, reducing the likelihood of unilateral policy shifts and supporting the historical pattern of post-midterm equity strength."
+        },
+        {
+          "title": "Oil price collapse",
+          "text": "Crude fell sharply on expectations of potential de-escalation in the Middle East, providing relief on the inflation front and boosting rate-sensitive and consumer-oriented sectors."
+        },
+        {
+          "title": "Broad participation",
+          "text": "The rally extended beyond mega-cap technology, with strong breadth and leadership from discretionary, financials, and healthcare names."
+        },
+        {
+          "title": "Selective tech pressure",
+          "text": "While large non-chip tech names rose, semiconductor and certain AI-related stocks lagged on regulatory concerns."
+        },
+        {
+          "title": "Yield relief",
+          "text": "Lower oil prices and the political outcome helped ease Treasury yields."
+        }
+      ],
+      "overall_tone": "Strong risk-on session. The combination of reduced political uncertainty and a sharp drop in oil prices fueled a broad equity rally, with the Dow leading the way. Energy was the main underperformer, while consumer and financial stocks benefited most from the shift in the policy and inflation outlook."
+    },
+    {
       "timestamp": "2026-11-03T20:00:00+00:00",
       "header": "Tuesday, November 3, 2026's Report",
       "headline": "On Tuesday, November 3, 2026 (U.S. midterm Election Day), stocks closed mixed.",
@@ -335,7 +419,9 @@
         }
       ],
       "overall_tone": "Tech-led decline driven by Alphabet. The major indexes fell for the first time in several sessions even as the majority of stocks rose, highlighting the continued concentration risk in a handful of mega-cap AI names. Attention remains on upcoming earnings and the sustainability of AI-driven capital spending."
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-10-28T20:00:00+00:00",
       "header": "Wednesday, October 28, 2026's Report",
@@ -419,9 +505,7 @@
         }
       ],
       "overall_tone": "Calm close after the Fed held rates steady. Equities posted small gains for a third straight session while the bond market absorbed the policy decision and mixed signals on the future path of rates. Attention now turns to earnings and incoming inflation data."
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-10-27T20:00:00+00:00",
       "header": "Tuesday, October 27, 2026's Report",
@@ -1273,7 +1357,9 @@
         }
       ],
       "overall_tone": "Risk-off and inflation-driven. The hotter CPI print shifted rate expectations higher, pressuring rate-sensitive growth and AI stocks while supporting a modest defensive shift. Markets remain focused on the Fed’s next policy decision and further economic data, with elevated yields and energy costs continuing to influence sentiment."
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-12T20:00:00+00:00",
       "header": "Monday, October 12, 2026's Report",
@@ -1357,9 +1443,7 @@
         }
       ],
       "overall_tone": "Quiet and mixed start to the week. The Dow’s gain contrasted with modest declines in the S&P 500 and Nasdaq amid technology weakness and rising oil prices. With bond markets closed and volume light, investors positioned ahead of major bank results and inflation reports that could influence rate expectations and market direction."
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-09T20:00:00+00:00",
       "header": "Friday, October 9, 2026's Report",
