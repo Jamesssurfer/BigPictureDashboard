@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-11-10T20:00:00+00:00",
+    "header": "Tuesday, November 10, 2026's Report",
+    "headline": "On Tuesday, U.S. stocks closed modestly lower after a hotter-than-expected inflation report reignited concerns about further Federal Reserve rate hikes.",
+    "summary": "On Tuesday, U.S. stocks closed modestly lower after a hotter-than-expected inflation report reignited concerns about further Federal Reserve rate hikes. The pullback came after Monday’s strong rebound, with technology shares (led by Nvidia) under particular pressure.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "52,231.89",
+          "change": "-157.86 points",
+          "pct": "-0.3%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,520.93",
+          "change": "-29.01 points",
+          "pct": "-0.4%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "25,065.88",
+          "change": "",
+          "pct": "",
+          "notes": "down approximately 187 points (−0.7%)."
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,821.38",
+          "change": "-19.44 points",
+          "pct": "-0.7%",
+          "notes": ""
+        }
+      ],
+      "volatility": "",
+      "breadth": "Breadth was mixed, with the market giving back part of the prior day’s gains.",
+      "sectors": "",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Treasury yields rose sharply after the inflation data. The 10-year yield climbed toward 4.98–5.00% (up roughly 10–12 basis points from the prior close). Short-term yields also jumped as markets increased the probability of a December Fed rate hike, with some discussion of a possible larger move.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices continued to ease, remaining near multi-week lows. Gold declined (falling toward or below the $4,050–$4,100 area in some readings) as higher yields and a stronger dollar weighed on the metal.",
+      "oil": "",
+      "gold": "Gold declined (falling toward or below the $4,050–$4,100 area in some readings) as higher yields and a stronger dollar weighed on the metal."
+    },
+    "currencies": {
+      "summary": "The U.S. dollar strengthened. Volatility remained elevated relative to recent lows but did not spike dramatically."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "International equities were mixed, with some strength in Asia earlier in the session giving way to more cautious trading as U.S. data and rate expectations shifted."
+    },
+    "key_drivers": [
+      {
+        "title": "Hotter-than-expected CPI",
+        "text": "October consumer prices rose 0.4% month-over-month (above the 0.3% consensus), with core also firmer than expected. This reinforced views that the Fed may need to tighten further."
+      },
+      {
+        "title": "Rate-hike expectations",
+        "text": "Traders sharply raised the odds of a December rate increase; comments from Fed officials added to the hawkish tilt."
+      },
+      {
+        "title": "Nvidia weakness",
+        "text": "The stock extended losses amid ongoing scrutiny related to its CEO, weighing on the Nasdaq and broader tech sentiment."
+      },
+      {
+        "title": "Oil softness",
+        "text": "Continued declines in crude provided some inflation offset but were not enough to counter the CPI impact."
+      },
+      {
+        "title": "Post-rally digestion",
+        "text": "The session reversed part of Monday’s strong gains as investors recalibrated to the new inflation and policy outlook."
+      }
+    ],
+    "overall_tone": "Cautious pullback. Sticky inflation data shifted focus back to the Fed path, lifting yields and pressuring equities—particularly rate-sensitive and high-valuation technology shares—after the previous day’s rebound."
+  },
+  {
     "timestamp": "2026-11-09T20:00:00+00:00",
     "header": "Monday, November 9, 2026's Report",
     "headline": "November 9, 2026.",
