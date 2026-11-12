@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-11-11T20:00:00+00:00",
+    "header": "Wednesday, November 11, 2026's Report",
+    "headline": "On Wednesday, November 11, 2026 (Veterans Day), U.S. stocks advanced, led by a rebound in artificial intelligence and technology shares.",
+    "summary": "On Wednesday, November 11, 2026 (Veterans Day), U.S. stocks advanced, led by a rebound in artificial intelligence and technology shares. The stock market traded normal hours while the U.S. bond market was closed for the federal holiday.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "52,486.49",
+          "change": "+254.60 points",
+          "pct": "+0.5%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,619.38",
+          "change": "+98.45 points",
+          "pct": "+1.3%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "25,466.19",
+          "change": "+400.31 points",
+          "pct": "+1.6%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,846.26",
+          "change": "+24.89 points",
+          "pct": "+0.9%",
+          "notes": ""
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "The U.S. bond market was closed for Veterans Day (SIFMA holiday recommendation). Yields had risen the prior day on hotter inflation data and remained elevated near the 5% area on the 10-year heading into the holiday.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices rose. Gold was relatively stable to softer in the broader recent context of higher yields.",
+      "oil": "",
+      "gold": "Gold was relatively stable to softer in the broader recent context of higher yields."
+    },
+    "currencies": {
+      "summary": "The dollar held firm. Volatility measures declined as risk appetite improved in equities."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "International markets were mixed to positive, with technology and growth-oriented names following the U.S. lead."
+    },
+    "key_drivers": [
+      {
+        "title": "CoreWeave earnings",
+        "text": "The AI cloud/infrastructure company reported stronger-than-expected results and raised guidance, while addressing funding and profitability concerns. Shares surged and lifted related AI and semiconductor names."
+      },
+      {
+        "title": "AI/tech rebound",
+        "text": "Nvidia recovered ground after recent sharp declines tied to company-specific news. Broader chip and AI infrastructure stocks participated in the rally."
+      },
+      {
+        "title": "Holiday trading",
+        "text": "Stocks traded normally while bonds were shut, limiting some rate-related price discovery."
+      },
+      {
+        "title": "Post-volatility recovery",
+        "text": "The session extended the rebound from the prior week’s AI-regulation and midterm-related selling, with improved sentiment around AI spending sustainability."
+      },
+      {
+        "title": "Oil firmness",
+        "text": "Crude prices increased, providing a mild tailwind for energy-related areas."
+      }
+    ],
+    "overall_tone": "Constructive risk-on session. Strong results from CoreWeave helped restore confidence in the AI trade, driving technology leadership and allowing major indices to claw back more of the recent losses even as the bond market observed the holiday."
+  },
+  {
     "timestamp": "2026-11-10T20:00:00+00:00",
     "header": "Tuesday, November 10, 2026's Report",
     "headline": "On Tuesday, U.S. stocks closed modestly lower after a hotter-than-expected inflation report reignited concerns about further Federal Reserve rate hikes.",
