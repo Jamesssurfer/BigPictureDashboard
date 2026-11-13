@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-11-12T20:00:00+00:00",
+    "header": "Thursday, November 12, 2026's Report",
+    "headline": "On Thursday, November 12, 2026, U.S. stocks closed modestly lower after absorbing sharp early swings in Nvidia and a rise in oil prices.",
+    "summary": "On Thursday, November 12, 2026, U.S. stocks closed modestly lower after absorbing sharp early swings in Nvidia and a rise in oil prices. The major averages opened down nearly 1% but recovered most of the losses to finish with relatively contained declines.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "52,297.09",
+          "change": "-189.40 points",
+          "pct": "-0.4%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,592.40",
+          "change": "-26.98 points",
+          "pct": "-0.4%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "25,366.09",
+          "change": "-100.10 points",
+          "pct": "-0.4%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,799.06",
+          "change": "-47.20 points",
+          "pct": "-1.7%",
+          "notes": ""
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "Nine of the 11 S&P 500 sectors ended lower.",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Treasury yields remained elevated near recent highs following the prior session’s inflation-driven moves, with the 10-year still hovering around the 5% area in the broader recent context.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices climbed after comments from President Trump indicating reduced interest in a deal with Iran, renewing supply concerns. Energy shares benefited relatively.",
+      "oil": "",
+      "gold": ""
+    },
+    "currencies": {
+      "summary": "The dollar held firm amid ongoing rate expectations. Volatility was elevated early but moderated as the market recovered from session lows."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "International equities were mixed, with some pressure from the U.S. tech volatility and oil moves."
+    },
+    "key_drivers": [
+      {
+        "title": "Nvidia leadership change",
+        "text": "Shares initially plunged as much as 14% on the resignation of CEO Jensen Huang (CFO Colette Kress named interim CEO). The stock recovered a substantial portion of the decline, limiting broader index damage. Other AI chip names held up better."
+      },
+      {
+        "title": "Oil rebound",
+        "text": "Crude rose on renewed geopolitical concerns after the administration signaled less interest in an Iran deal, supporting energy stocks."
+      },
+      {
+        "title": "Risk absorption",
+        "text": "The market opened sharply lower but clawed back most losses, showing resilience after the prior day’s AI-driven rebound."
+      },
+      {
+        "title": "Sector rotation",
+        "text": "Energy gained while cyclical and materials names lagged; technology was mixed due to Nvidia’s weight."
+      },
+      {
+        "title": "Ongoing rate backdrop",
+        "text": "Elevated Treasury yields and Fed hike expectations continued to influence sentiment, though the bond market had been closed the previous day for Veterans Day."
+      }
+    ],
+    "overall_tone": "Contained pullback. The market demonstrated resilience by recovering from early losses driven by Nvidia’s leadership news and oil volatility, finishing with only modest declines after Wednesday’s stronger session."
+  },
+  {
     "timestamp": "2026-11-11T20:00:00+00:00",
     "header": "Wednesday, November 11, 2026's Report",
     "headline": "On Wednesday, November 11, 2026 (Veterans Day), U.S. stocks advanced, led by a rebound in artificial intelligence and technology shares.",
