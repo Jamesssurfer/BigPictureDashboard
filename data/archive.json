@@ -1353,7 +1353,9 @@
         }
       ],
       "overall_tone": "Risk-off close driven by technology weakness. Stocks finished lower to end a down week for the major growth-oriented indexes, while energy provided a bright spot. Attention remains on the durability of AI-related valuations, sticky inflation data, and the Federal Reserve’s policy path heading into the next week."
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-15T20:00:00+00:00",
       "header": "Thursday, October 15, 2026's Report",
@@ -1439,9 +1441,7 @@
         }
       ],
       "overall_tone": "Constructive recovery with rotation. Equities bounced after the prior day’s inflation-driven drop, led by non-tech areas, while yields eased and gold gained. Markets remained sensitive to sticky inflation readings and AI financing risks heading into further economic data and earnings."
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-14T20:00:00+00:00",
       "header": "Wednesday, October 14, 2026's Report",
