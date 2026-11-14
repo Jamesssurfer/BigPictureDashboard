@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-11-13T20:00:00+00:00",
+    "header": "Friday, November 13, 2026's Report",
+    "headline": "On Friday, November 13, 2026, U.S. stocks finished mixed, with the Dow eking out a small gain while the S&P 500 and Nasdaq declined.",
+    "summary": "On Friday, November 13, 2026, U.S. stocks finished mixed, with the Dow eking out a small gain while the S&P 500 and Nasdaq declined. Technology and semiconductor shares remained under pressure following the prior day’s leadership upheaval at Nvidia, outweighing a cooler-than-expected monthly reading on wholesale inflation. Despite the pullback, major indexes posted solid weekly gains, snapping multi-week losing streaks.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "52,347.55",
+          "change": "+50.46 points",
+          "pct": "+0.1%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,561.67",
+          "change": "-30.73 points",
+          "pct": "-0.4%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "25,136.27",
+          "change": "-229.82 points",
+          "pct": "-0.9%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,790.49",
+          "change": "",
+          "pct": "",
+          "notes": "down approximately 0.3%."
+        }
+      ],
+      "volatility": "",
+      "breadth": "Breadth was mixed, and the session saw early weakness that only partially recovered.",
+      "sectors": "",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "The 10-year Treasury yield rose, closing near 5.15% (up roughly 5 basis points on the day). Yields have climbed notably over the past week amid sticky inflation data and expectations for further Federal Reserve rate increases.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices were little changed to modestly higher. WTI crude settled in the high $88s per barrel range after the prior session’s rebound tied to Middle East developments. Energy shares held up relatively well.",
+      "oil": "WTI crude settled in the high $88s per barrel range after the prior session’s rebound tied to Middle East developments.",
+      "gold": ""
+    },
+    "currencies": {
+      "summary": "The dollar remained firm against a backdrop of elevated U.S. yields and rate-hike expectations. Volatility (VIX) edged higher."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "European markets were mixed. Broader global sentiment reflected ongoing caution around U.S. tech leadership uncertainty and inflation data."
+    },
+    "key_drivers": [
+      {
+        "title": "Continued Nvidia/tech pressure",
+        "text": "Shares of Nvidia and related semiconductor names stayed under pressure a day after the resignation of CEO Jensen Huang. The uncertainty contributed to broader weakness in high-growth technology stocks."
+      },
+      {
+        "title": "October Producer Price Index",
+        "text": "Wholesale prices rose 0.3% month-over-month (slightly below the 0.4% consensus), but the year-over-year rate accelerated to 6.5%, the highest since November 2022. Core measures also remained elevated. The data did little to alter expectations for at least a 25-basis-point Fed hike in December."
+      },
+      {
+        "title": "Weekly rebound",
+        "text": "Despite Friday’s softness, the S&P 500 gained about 2.5% for the week, the Nasdaq roughly 2.3%, and the Dow about 2.1%. This marked the first winning week for the major indexes in several weeks."
+      },
+      {
+        "title": "Sector rotation",
+        "text": "Defensive areas such as consumer staples and energy outperformed, while technology and some cyclical groups lagged."
+      },
+      {
+        "title": "Rate and inflation backdrop",
+        "text": "Elevated and rising Treasury yields continued to weigh on rate-sensitive and growth-oriented equities."
+      }
+    ],
+    "overall_tone": "Mixed and cautious. The market absorbed residual Nvidia-related volatility and a sticky PPI print without a sharp sell-off, while locking in meaningful weekly gains after a turbulent stretch. Investors remain focused on the path of inflation and Federal Reserve policy heading into December."
+  },
+  {
     "timestamp": "2026-11-12T20:00:00+00:00",
     "header": "Thursday, November 12, 2026's Report",
     "headline": "On Thursday, November 12, 2026, U.S. stocks closed modestly lower after absorbing sharp early swings in Nvidia and a rise in oil prices.",
