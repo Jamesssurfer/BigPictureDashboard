@@ -1269,7 +1269,9 @@
         }
       ],
       "overall_tone": "Selective recovery led by technology. AI and chip stocks bounced after a rough week, lifting the Nasdaq and S&P 500, while the rest of the market remained cautious. Attention turns to this week’s key earnings reports that could determine whether the rebound broadens or remains concentrated."
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-16T20:00:00+00:00",
       "header": "Friday, October 16, 2026's Report",
@@ -1353,9 +1355,7 @@
         }
       ],
       "overall_tone": "Risk-off close driven by technology weakness. Stocks finished lower to end a down week for the major growth-oriented indexes, while energy provided a bright spot. Attention remains on the durability of AI-related valuations, sticky inflation data, and the Federal Reserve’s policy path heading into the next week."
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-15T20:00:00+00:00",
       "header": "Thursday, October 15, 2026's Report",
