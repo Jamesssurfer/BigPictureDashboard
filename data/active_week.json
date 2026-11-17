@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-11-16T20:00:00+00:00",
+    "header": "Monday, November 16, 2026's Report",
+    "headline": "On Monday, November 16, 2026, U.S. stocks closed sharply lower, with technology shares leading a broad sell-off.",
+    "summary": "On Monday, November 16, 2026, U.S. stocks closed sharply lower, with technology shares leading a broad sell-off. The decline marked the third consecutive losing session for the S&P 500 and the worst day for major indexes since the post-election turbulence earlier in the month. Residual uncertainty surrounding Nvidia’s leadership change, combined with caution ahead of the company’s earnings, weighed heavily on the market.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "51,608.17",
+          "change": "-739.38 points",
+          "pct": "-1.4%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,416.59",
+          "change": "-145.08 points",
+          "pct": "-1.9%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "24,509.76",
+          "change": "-626.52 points",
+          "pct": "-2.5%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,742.94",
+          "change": "",
+          "pct": "",
+          "notes": "down approximately 1.7%."
+        }
+      ],
+      "volatility": "",
+      "breadth": "Market breadth was weak, with decliners far outnumbering advancers.",
+      "sectors": "Nine of the 11 S&P 500 sectors ended lower.",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "The 10-year Treasury yield eased slightly, closing near 5.12% (down a few basis points). Yields pulled back after their recent climb on inflation concerns.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices declined. WTI crude fell roughly 0.4% to the mid-$85 range. Gold was little changed to modestly higher.",
+      "oil": "WTI crude fell roughly 0.4% to the mid-$85 range.",
+      "gold": "Gold was little changed to modestly higher."
+    },
+    "currencies": {
+      "summary": "The U.S. dollar strengthened, reaching a multi-month high. Volatility rose, with the VIX climbing above 22."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "Asian markets were weaker, with notable declines in Japan, China, and South Korea. European equities also pulled back from recent highs."
+    },
+    "key_drivers": [
+      {
+        "title": "Nvidia and AI/tech pressure",
+        "text": "Nvidia shares fell about 4% as investors remained cautious following last week’s resignation of CEO Jensen Huang and ahead of the company’s earnings report (due after the close on Tuesday). Related semiconductor and AI-linked stocks also declined."
+      },
+      {
+        "title": "Broader risk-off tone",
+        "text": "The sell-off extended beyond chips into other growth and cyclical areas. Defensive groups such as consumer staples provided some offset."
+      },
+      {
+        "title": "Upcoming catalysts",
+        "text": "Markets focused on Nvidia’s results and the anticipated Anthropic IPO later in the week, amplifying caution around the AI trade."
+      },
+      {
+        "title": "Yields and oil",
+        "text": "A modest retreat in Treasury yields and lower oil prices failed to support equities."
+      },
+      {
+        "title": "Technical context",
+        "text": "The session represented the largest one-day percentage declines for the major averages since the early-November post-election move."
+      }
+    ],
+    "overall_tone": "Risk-off and tech-led weakness. The market opened the week under pressure from ongoing Nvidia-related uncertainty and position-trimming ahead of key AI-sector events, resulting in a broad decline that erased a portion of the prior week’s rebound."
+  },
+  {
     "timestamp": "2026-11-13T20:00:00+00:00",
     "header": "Friday, November 13, 2026's Report",
     "headline": "On Friday, November 13, 2026, U.S. stocks finished mixed, with the Dow eking out a small gain while the S&P 500 and Nasdaq declined.",
@@ -334,91 +418,5 @@
       }
     ],
     "overall_tone": "Cautious pullback. Sticky inflation data shifted focus back to the Fed path, lifting yields and pressuring equities—particularly rate-sensitive and high-valuation technology shares—after the previous day’s rebound."
-  },
-  {
-    "timestamp": "2026-11-09T20:00:00+00:00",
-    "header": "Monday, November 9, 2026's Report",
-    "headline": "November 9, 2026.",
-    "summary": "November 9, 2026.",
-    "us_equities": {
-      "indices": [
-        {
-          "name": "Dow Jones Industrial Average",
-          "value": "52,389.75",
-          "change": "+1,104.02 points",
-          "pct": "+2.2%",
-          "notes": ""
-        },
-        {
-          "name": "S&P 500",
-          "value": "7,549.94",
-          "change": "+173.08 points",
-          "pct": "+2.3%",
-          "notes": ""
-        },
-        {
-          "name": "Nasdaq Composite",
-          "value": "25,253.14",
-          "change": "+673.71 points",
-          "pct": "+2.7%",
-          "notes": ""
-        },
-        {
-          "name": "Russell 2000",
-          "value": "2,840.81",
-          "change": "+86.71 points",
-          "pct": "+3.1%",
-          "notes": ""
-        }
-      ],
-      "volatility": "Small-caps outperformed, and the VIX declined meaningfully as volatility eased.",
-      "breadth": "",
-      "sectors": "The advance was widespread, with all 11 S&P 500 sectors finishing in positive territory.",
-      "notable_movers": [],
-      "other": ""
-    },
-    "bonds": {
-      "summary": "Treasury yields were mixed to slightly firmer in some reports (10-year around 4.88%), with lower oil prices providing some offsetting support. Markets continued to price a high probability of further Fed tightening.",
-      "yields": [
-        "10-year: 4.88%"
-      ],
-      "notes": ""
-    },
-    "commodities": {
-      "summary": "Oil prices declined sharply (Brent down roughly 5.8%), which helped ease inflation concerns and lifted equity sentiment. Gold advanced about 1.7%, closing near $4,140.",
-      "oil": "Oil prices declined sharply (Brent down roughly 5.8%), which helped ease inflation concerns and lifted equity sentiment.",
-      "gold": "Gold advanced about 1.7%, closing near $4,140."
-    },
-    "currencies": {
-      "summary": "The dollar was softer. Risk assets broadly recovered as investors engaged in dip-buying after the previous week’s AI- and midterm-related sell-off."
-    },
-    "global_markets": {
-      "asia": "",
-      "europe": "",
-      "summary": "International equities generally followed the positive U.S. lead, with technology and risk-sensitive names recovering."
-    },
-    "key_drivers": [
-      {
-        "title": "Oil price decline",
-        "text": "A sharp drop in crude (linked in part to reports around Iran/Middle East developments) reduced inflation fears and supported risk appetite."
-      },
-      {
-        "title": "Broad dip-buying",
-        "text": "Investors stepped in after the prior week’s heavy losses tied to midterm election outcomes and concerns over potential AI/data-center regulation."
-      },
-      {
-        "title": "Semiconductor rebound (ex-Nvidia)",
-        "text": "Chip stocks recovered strongly even as Nvidia lagged on the internal probe news."
-      },
-      {
-        "title": "Sector breadth",
-        "text": "Gains extended across industrials, discretionary, technology, and other areas, signaling improved risk sentiment."
-      },
-      {
-        "title": "Post-volatility stabilization",
-        "text": "The session marked a continuation of Friday’s partial recovery and helped claw back more of the previous week’s damage."
-      }
-    ],
-    "overall_tone": "Strong risk-on rebound. Lower oil prices and aggressive dip-buying drove a broad rally that more than offset Nvidia-specific weakness, delivering the market’s best session in months."
   }
 ]
