@@ -1,5 +1,93 @@
 [
   {
+    "timestamp": "2026-11-18T20:00:00+00:00",
+    "header": "Wednesday, November 18, 2026's Report",
+    "headline": "On Wednesday, November 18, 2026, U.S. stocks finished mixed.",
+    "summary": "On Wednesday, November 18, 2026, U.S. stocks finished mixed. The Nasdaq snapped a multi-day losing streak with a modest gain, while the S&P 500 extended its slide to a fifth consecutive session and the Dow declined more sharply. Nvidia’s strong earnings report failed to sustain broad enthusiasm, and healthcare shares came under heavy pressure.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "50,198.17",
+          "change": "-561.25 points",
+          "pct": "-1.1%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,323.63",
+          "change": "-16.90 points",
+          "pct": "-0.2%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "24,429.88",
+          "change": "+101.50 points",
+          "pct": "+0.4%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,714.31",
+          "change": "",
+          "pct": "",
+          "notes": "up approximately 0.5%."
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "The 10-year Treasury yield edged slightly lower, finishing near 5.09–5.10%. Hawkish signals in the Federal Reserve minutes reinforced expectations for further rate increases.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices fell notably (WTI down roughly 3% to the low $82 range) on a large inventory build. Gold also declined sharply.",
+      "oil": "Oil prices fell notably (WTI down roughly 3% to the low $82 range) on a large inventory build.",
+      "gold": "Gold also declined sharply."
+    },
+    "currencies": {
+      "summary": "The dollar remained relatively firm. Volatility moderated somewhat, with the VIX pulling back from recent highs."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "International equities were mixed amid ongoing focus on U.S. technology developments and rate expectations."
+    },
+    "key_drivers": [
+      {
+        "title": "Nvidia earnings reaction",
+        "text": "The company delivered a strong quarter with revenue more than doubling year-over-year and guidance that topped estimates. Shares jumped initially in after-hours Tuesday and early Wednesday but faded during the regular session, reflecting lingering caution around leadership changes, export restrictions, and the broader sustainability of AI spending."
+      },
+      {
+        "title": "Healthcare pressure",
+        "text": "Managed-care and insurer stocks sold off sharply for a second day following Medicare proposals related to plan audits."
+      },
+      {
+        "title": "Mixed tech performance",
+        "text": "While Nvidia lagged, select AI-related and cybersecurity names advanced. The Nasdaq’s gain helped it break a four-day losing streak."
+      },
+      {
+        "title": "Fed minutes and rates",
+        "text": "Minutes reinforced a hawkish tilt and high odds of a December rate hike, limiting broader risk appetite."
+      },
+      {
+        "title": "Anthropic IPO focus",
+        "text": "Attention remained on the highly anticipated Anthropic offering, reported to have priced above its marketed range."
+      },
+      {
+        "title": "Commodities weakness",
+        "text": "Lower oil and gold prices weighed on related sectors and reflected shifting supply and demand dynamics."
+      }
+    ],
+    "overall_tone": "Mixed and cautious. The market absorbed Nvidia’s solid results without a broad rally, as healthcare weakness and rate concerns kept the S&P 500 on a multi-day losing path. The Nasdaq’s rebound offered a modest offset amid ongoing rotation and uncertainty in the AI complex."
+  },
+  {
     "timestamp": "2026-11-17T20:00:00+00:00",
     "header": "Tuesday, November 17, 2026's Report",
     "headline": "On Tuesday, November 17, 2026, U.S. stocks closed lower, extending the recent slide as investors remained cautious ahead of Nvidia’s earnings report after the close.",
