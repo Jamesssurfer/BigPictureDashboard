@@ -1349,7 +1349,9 @@
         }
       ],
       "overall_tone": "Cautious close to a rocky week. Elevated oil prices exerted downward pressure across most indices, even as technology showed signs of stabilizing. Investors remained focused on energy geopolitics, AI spending concerns, and upcoming policy and earnings catalysts."
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-22T20:00:00+00:00",
       "header": "Thursday, October 22, 2026's Report",
@@ -1435,9 +1437,7 @@
         }
       ],
       "overall_tone": "Risk-off session led by technology weakness. AI-related concerns resurfaced despite some earnings beats, driving the Nasdaq and S&P 500 lower while the Dow and small-caps held up better. Elevated oil prices and a flight into Treasuries underscored caution heading into the end of the week."
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-21T20:00:00+00:00",
       "header": "Wednesday, October 21, 2026's Report",
