@@ -1263,7 +1263,9 @@
         }
       ],
       "overall_tone": "Constructive start to the week. Technology leadership returned as AI optimism improved on the Anthropic news, helping major indexes rebound. Attention remained firmly on the heavy earnings calendar and the Federal Reserve meeting later in the week, with oil prices and geopolitical risks still in focus."
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-23T20:00:00+00:00",
       "header": "Friday, October 23, 2026's Report",
@@ -1349,9 +1351,7 @@
         }
       ],
       "overall_tone": "Cautious close to a rocky week. Elevated oil prices exerted downward pressure across most indices, even as technology showed signs of stabilizing. Investors remained focused on energy geopolitics, AI spending concerns, and upcoming policy and earnings catalysts."
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-22T20:00:00+00:00",
       "header": "Thursday, October 22, 2026's Report",
