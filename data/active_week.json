@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-11-23T20:00:00+00:00",
+    "header": "Monday, November 23, 2026's Report",
+    "headline": "On Monday, November 23, 2026, U.S. stocks staged a powerful relief rally, snapping a seven-day losing streak and lifting the S&P 500 and Dow out of correction territory.",
+    "summary": "On Monday, November 23, 2026, U.S. stocks staged a powerful relief rally, snapping a seven-day losing streak and lifting the S&P 500 and Dow out of correction territory. Technology and AI-related shares led the advance after Nvidia’s board reinstated Jensen Huang as CEO.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "49,595.31",
+          "change": "+1,447.98 points",
+          "pct": "+3.0%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,237.17",
+          "change": "+326.78 points",
+          "pct": "+4.7%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "24,089.56",
+          "change": "+1,471.82 points",
+          "pct": "+6.5%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,669.66",
+          "change": "",
+          "pct": "",
+          "notes": "up approximately 3.4%."
+        }
+      ],
+      "volatility": "",
+      "breadth": "Market breadth was robust, with advancing stocks far outnumbering decliners.",
+      "sectors": "",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "The 10-year Treasury yield edged slightly higher, finishing near 4.92%.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Oil prices declined. Gold was mixed to higher in some reports.",
+      "oil": "",
+      "gold": "Gold was mixed to higher in some reports."
+    },
+    "currencies": {
+      "summary": "Volatility eased significantly, with the VIX falling more than 25% to around 26.6."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "The rebound in U.S. tech and AI sentiment provided a positive tone heading into the shortened holiday week."
+    },
+    "key_drivers": [
+      {
+        "title": "Nvidia leadership news",
+        "text": "The board’s decision to reinstate Jensen Huang as CEO triggered a massive relief rally in Nvidia shares and the broader AI/semiconductor complex, reversing much of the prior week’s heavy selling."
+      },
+      {
+        "title": "Recovery from correction",
+        "text": "The S&P 500 and Dow recovered enough ground to exit formal correction territory (the >10% decline from recent highs). The S&P 500 regained more than half of the previous week’s losses."
+      },
+      {
+        "title": "AI and tech leadership",
+        "text": "Semiconductors and AI-related stocks dominated the upside, with strong participation from names tied to data centers and infrastructure. Defensive sectors lagged relatively."
+      },
+      {
+        "title": "Volatility decline",
+        "text": "The sharp drop in the VIX reflected a rapid shift in sentiment after the intense selling of the prior week."
+      },
+      {
+        "title": "Holiday context",
+        "text": "Trading occurred ahead of the Thanksgiving holiday (markets closed Thursday, November 26, with an early close on Friday, November 27)."
+      }
+    ],
+    "overall_tone": "Strongly positive and risk-on. A dramatic rebound driven by the Nvidia leadership reversal allowed major indexes to snap a multi-day losing streak, exit correction territory, and post some of their largest single-day gains in over a year. Technology and AI stocks led the charge as investors returned following the prior week’s severe sell-off."
+  },
+  {
     "timestamp": "2026-11-20T20:00:00+00:00",
     "header": "Friday, November 20, 2026's Report",
     "headline": "On Friday, November 20, 2026, U.S. stocks plunged in a sharp AI-driven sell-off.",
