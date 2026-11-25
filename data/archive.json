@@ -1,6 +1,90 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-17T20:00:00+00:00",
+      "header": "Tuesday, November 17, 2026's Report",
+      "headline": "On Tuesday, November 17, 2026, U.S. stocks closed lower, extending the recent slide as investors remained cautious ahead of Nvidia’s earnings report after the close.",
+      "summary": "On Tuesday, November 17, 2026, U.S. stocks closed lower, extending the recent slide as investors remained cautious ahead of Nvidia’s earnings report after the close. The S&P 500 and Nasdaq posted their fourth consecutive daily declines. Software shares were among the weakest performers, while the broader market reflected ongoing uncertainty around the AI trade.",
+      "us_equities": {
+        "indices": [
+          {
+            "name": "Dow Jones Industrial Average",
+            "value": "50,759.42",
+            "change": "-848.75 points",
+            "pct": "-1.6%",
+            "notes": ""
+          },
+          {
+            "name": "S&P 500",
+            "value": "7,340.53",
+            "change": "-76.06 points",
+            "pct": "-1.0%",
+            "notes": ""
+          },
+          {
+            "name": "Nasdaq Composite",
+            "value": "24,328.38",
+            "change": "-181.37 points",
+            "pct": "-0.7%",
+            "notes": ""
+          },
+          {
+            "name": "Russell 2000",
+            "value": "2,701.87",
+            "change": "",
+            "pct": "",
+            "notes": "down approximately 1.5%."
+          }
+        ],
+        "volatility": "",
+        "breadth": "Market breadth was poor, with decliners heavily outnumbering advancers.",
+        "sectors": "Most sectors declined.",
+        "notable_movers": [],
+        "other": ""
+      },
+      "bonds": {
+        "summary": "The 10-year Treasury yield eased slightly, closing near 5.10% (down a couple of basis points). Investors showed some preference for safer assets amid equity weakness.",
+        "yields": [],
+        "notes": ""
+      },
+      "commodities": {
+        "summary": "Oil prices were little changed to slightly higher. Gold was roughly flat near recent levels.",
+        "oil": "",
+        "gold": "Gold was roughly flat near recent levels."
+      },
+      "currencies": {
+        "summary": "The dollar remained firm. Volatility increased, with the VIX rising above 25."
+      },
+      "global_markets": {
+        "asia": "",
+        "europe": "",
+        "summary": "European and Asian markets also declined, reflecting broader risk-off sentiment tied to U.S. technology concerns."
+      },
+      "key_drivers": [
+        {
+          "title": "Nvidia earnings anticipation",
+          "text": "Stocks traded cautiously ahead of Nvidia’s quarterly results (released after the close). The company reported strong revenue growth, and shares moved higher in extended trading, providing some relief after the regular-session pressure."
+        },
+        {
+          "title": "Software and tech weakness",
+          "text": "Beyond chips, software stocks sold off notably. Salesforce led decliners, with other names such as Intuit and ServiceNow also under pressure."
+        },
+        {
+          "title": "AI trade caution",
+          "text": "Residual uncertainty from Nvidia’s recent leadership change and questions about the sustainability of AI infrastructure spending continued to weigh on related stocks. Attention also turned toward the upcoming Anthropic IPO."
+        },
+        {
+          "title": "Broad risk reduction",
+          "text": "Financials and other cyclical areas joined the decline. Defensive pockets offered limited offset."
+        },
+        {
+          "title": "Technical context",
+          "text": "The session extended the multi-day losing streak and pushed the S&P 500 to its lowest close in several months."
+        }
+      ],
+      "overall_tone": "Cautious and risk-off. The market extended its recent pullback on pre-earnings nerves around Nvidia and broader AI-related concerns, with software shares amplifying the decline. Nvidia’s after-hours reaction offered a potential positive signal heading into the next session."
+    },
+    {
       "timestamp": "2026-11-16T20:00:00+00:00",
       "header": "Monday, November 16, 2026's Report",
       "headline": "On Monday, November 16, 2026, U.S. stocks closed sharply lower, with technology shares leading a broad sell-off.",
@@ -335,7 +419,9 @@
         }
       ],
       "overall_tone": "Constructive risk-on session. Strong results from CoreWeave helped restore confidence in the AI trade, driving technology leadership and allowing major indices to claw back more of the recent losses even as the bond market observed the holiday."
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-10T20:00:00+00:00",
       "header": "Tuesday, November 10, 2026's Report",
@@ -419,9 +505,7 @@
         }
       ],
       "overall_tone": "Cautious pullback. Sticky inflation data shifted focus back to the Fed path, lifting yields and pressuring equities—particularly rate-sensitive and high-valuation technology shares—after the previous day’s rebound."
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-09T20:00:00+00:00",
       "header": "Monday, November 9, 2026's Report",
