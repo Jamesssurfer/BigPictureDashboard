@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-11-24T20:00:00+00:00",
+    "header": "Tuesday, November 24, 2026's Report",
+    "headline": "On Tuesday, November 24, 2026, U.S. stocks finished mixed.",
+    "summary": "On Tuesday, November 24, 2026, U.S. stocks finished mixed. The Dow Jones Industrial Average rose and closed back above 50,000, while the S&P 500 and Nasdaq declined as technology and semiconductor shares gave back part of the previous day’s sharp gains.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "50,018.70",
+          "change": "+423.39 points",
+          "pct": "+0.85%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,201.09",
+          "change": "-36.08 points",
+          "pct": "-0.50%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "23,733.54",
+          "change": "-356.02 points",
+          "pct": "-1.48%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,684.94",
+          "change": "",
+          "pct": "",
+          "notes": "up approximately 0.57%."
+        }
+      ],
+      "volatility": "",
+      "breadth": "Outside of tech, breadth was more constructive, with healthcare, some retailers, and value-oriented names performing better.",
+      "sectors": "",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "The 10-year Treasury yield held near 4.92%.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Gold declined. Oil prices rose modestly.",
+      "oil": "",
+      "gold": "Gold declined."
+    },
+    "currencies": {
+      "summary": "Volatility remained elevated relative to longer-term averages following the recent sharp swings."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "Trading remained cautious heading into the Thanksgiving holiday period and key U.S. economic data."
+    },
+    "key_drivers": [
+      {
+        "title": "Tech and AI pullback",
+        "text": "Semiconductor and AI-linked stocks retreated after Monday’s powerful rally that was triggered by Nvidia’s reinstatement of Jensen Huang as CEO. Profit-taking and lingering concerns about valuation and governance weighed on the group."
+      },
+      {
+        "title": "Sector rotation",
+        "text": "Investors shifted toward value, healthcare, and select consumer names. Retailers that reported stronger results, including some that beat expectations, attracted buying."
+      },
+      {
+        "title": "Consumer confidence",
+        "text": "The Conference Board’s consumer confidence index rose to its highest level in nearly two years, supported by labor-market and post-midterm optimism."
+      },
+      {
+        "title": "Anthropic",
+        "text": "Shares of the newly public AI company slipped below their IPO price."
+      },
+      {
+        "title": "Holiday and data backdrop",
+        "text": "Markets prepared for Wednesday’s PCE inflation data and a shortened week (closed Thursday for Thanksgiving, early close Friday)."
+      }
+    ],
+    "overall_tone": "Mixed and rotational. The Dow advanced and reclaimed the 50,000 level on broader participation outside technology, while the S&P 500 and Nasdaq retreated as AI and chip stocks cooled after Monday’s surge. Sentiment remained sensitive to leadership news, valuation concerns, and the upcoming holiday-shortened trading schedule."
+  },
+  {
     "timestamp": "2026-11-23T20:00:00+00:00",
     "header": "Monday, November 23, 2026's Report",
     "headline": "On Monday, November 23, 2026, U.S. stocks staged a powerful relief rally, snapping a seven-day losing streak and lifting the S&P 500 and Dow out of correction territory.",
