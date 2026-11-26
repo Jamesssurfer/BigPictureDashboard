@@ -1,5 +1,89 @@
 [
   {
+    "timestamp": "2026-11-25T20:00:00+00:00",
+    "header": "Wednesday, November 25, 2026's Report",
+    "headline": "On Wednesday, November 25, 2026, U.S. stocks closed mixed after a volatile session.",
+    "summary": "On Wednesday, November 25, 2026, U.S. stocks closed mixed after a volatile session. The market suffered a sharp early sell-off driven by renewed pressure on AI and technology shares, tariff concerns, and hotter inflation data, but recovered most of those losses by the close. The Dow finished higher while the S&P 500 and Nasdaq ended modestly lower.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "50,182.95",
+          "change": "+164.25 points",
+          "pct": "+0.33%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,182.78",
+          "change": "-18.31 points",
+          "pct": "-0.25%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "23,585.80",
+          "change": "-147.73 points",
+          "pct": "-0.62%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,704.06",
+          "change": "",
+          "pct": "",
+          "notes": "up approximately 0.71%."
+        }
+      ],
+      "volatility": "",
+      "breadth": "Outside of tech, breadth improved later in the day.",
+      "sectors": "",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "The 10-year Treasury yield edged lower, finishing near 4.87%.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Trading was relatively subdued ahead of the holiday.",
+      "oil": "",
+      "gold": ""
+    },
+    "currencies": {
+      "summary": "The VIX rose, reflecting the elevated intraday volatility (it briefly exceeded 30 in the morning before easing)."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "Asian markets came under pressure, with notable weakness in South Korean and Japanese tech-related shares."
+    },
+    "key_drivers": [
+      {
+        "title": "Continued AI/tech weakness",
+        "text": "Semiconductor and AI-linked stocks extended their recent pullback after Monday’s relief rally. Nvidia and other chipmakers led the early declines before partially recovering."
+      },
+      {
+        "title": "Inflation data",
+        "text": "October core PCE inflation came in slightly hotter than expected (3.3% year-over-year), reinforcing expectations of further Federal Reserve rate hikes."
+      },
+      {
+        "title": "Tariff concerns",
+        "text": "Reports of potential new U.S. tariff measures added to risk-off sentiment early in the session."
+      },
+      {
+        "title": "Sharp recovery",
+        "text": "Dip-buying emerged in the afternoon, allowing the Dow to close higher and limiting losses in the S&P 500 and Nasdaq. Several non-tech sectors and financial names provided support."
+      },
+      {
+        "title": "Holiday backdrop",
+        "text": "Trading occurred ahead of Thanksgiving (markets closed Thursday, November 26, with an early close on Friday, November 27). Volume patterns reflected the shortened week."
+      }
+    ],
+    "overall_tone": "Volatile and mixed. A steep early sell-off in AI and technology stocks was largely reversed by afternoon bargain hunting, resulting in a modestly lower close for the S&P 500 and Nasdaq while the Dow finished higher. Sentiment remained fragile amid inflation data, tariff headlines, and ongoing questions about the AI trade heading into the holiday period."
+  },
+  {
     "timestamp": "2026-11-24T20:00:00+00:00",
     "header": "Tuesday, November 24, 2026's Report",
     "headline": "On Tuesday, November 24, 2026, U.S. stocks finished mixed.",
