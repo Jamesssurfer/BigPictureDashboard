@@ -1,5 +1,39 @@
 [
   {
+    "timestamp": "2026-11-26T20:00:00+00:00",
+    "header": "Thursday, November 26, 2026's Report",
+    "headline": "U.S. stock markets were closed on Thursday, November 26, 2026, in observance of Thanksgiving Day.",
+    "summary": "U.S. stock markets were closed on Thursday, November 26, 2026, in observance of Thanksgiving Day. There was no regular trading session on the New York Stock Exchange or Nasdaq, and therefore no official closing prices for the major equity indexes.",
+    "us_equities": {
+      "indices": [],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "",
+      "oil": "",
+      "gold": ""
+    },
+    "currencies": {
+      "summary": ""
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": ""
+    },
+    "key_drivers": [],
+    "overall_tone": "Quiet holiday. No equity market activity occurred on November 26. Attention shifts to the abbreviated Black Friday session and the broader post-holiday trading environment."
+  },
+  {
     "timestamp": "2026-11-25T20:00:00+00:00",
     "header": "Wednesday, November 25, 2026's Report",
     "headline": "On Wednesday, November 25, 2026, U.S. stocks closed mixed after a volatile session.",
