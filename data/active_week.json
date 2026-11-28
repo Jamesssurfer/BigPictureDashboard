@@ -1,5 +1,85 @@
 [
   {
+    "timestamp": "2026-11-27T20:00:00+00:00",
+    "header": "Friday, November 27, 2026's Report",
+    "headline": "U.S. stocks rallied strongly in a holiday-shortened Black Friday session on Friday, November 27, 2026.",
+    "summary": "U.S. stocks rallied strongly in a holiday-shortened Black Friday session on Friday, November 27, 2026. Markets closed early at 1:00 p.m. ET, with technology and AI-related shares leading a broad rebound that helped major indexes post their strongest weekly gains in more than a year.",
+    "us_equities": {
+      "indices": [
+        {
+          "name": "Dow Jones Industrial Average",
+          "value": "50,774.94",
+          "change": "+591.99 points",
+          "pct": "+1.18%",
+          "notes": ""
+        },
+        {
+          "name": "S&P 500",
+          "value": "7,297.49",
+          "change": "+114.71 points",
+          "pct": "+1.60%",
+          "notes": ""
+        },
+        {
+          "name": "Nasdaq Composite",
+          "value": "24,129.50",
+          "change": "+543.70 points",
+          "pct": "+2.31%",
+          "notes": ""
+        },
+        {
+          "name": "Russell 2000",
+          "value": "2,750.30",
+          "change": "",
+          "pct": "",
+          "notes": "up approximately 1.71%."
+        }
+      ],
+      "volatility": "",
+      "breadth": "",
+      "sectors": "All 11 S&P 500 sectors finished higher.",
+      "notable_movers": [],
+      "other": ""
+    },
+    "bonds": {
+      "summary": "Treasury yields edged higher in the abbreviated session, with the 10-year yield moving near 4.9%.",
+      "yields": [],
+      "notes": ""
+    },
+    "commodities": {
+      "summary": "Gold rose notably on the day.",
+      "oil": "",
+      "gold": "Gold rose notably on the day."
+    },
+    "currencies": {
+      "summary": "Trading volume was lighter than usual due to the early close and holiday timing."
+    },
+    "global_markets": {
+      "asia": "",
+      "europe": "",
+      "summary": "Activity was limited given the U.S. early close and the Thanksgiving holiday backdrop."
+    },
+    "key_drivers": [
+      {
+        "title": "Tech and AI rebound",
+        "text": "Investors returned to beaten-down semiconductor and AI-related stocks after the prior week’s volatility. Memory and storage names were particularly strong."
+      },
+      {
+        "title": "Holiday-shortened week",
+        "text": "The session followed a closed Thanksgiving Day (November 26). The strong Friday finish helped deliver the S&P 500’s best weekly gain since April 2025 (approximately +5.6%) and solid weekly advances for the Dow (+5.5%) and Nasdaq (+6.7%)."
+      },
+      {
+        "title": "Broad participation",
+        "text": "Advances outnumbered declines by a wide margin. Bargain hunting and year-end positioning supported the rally."
+      },
+      {
+        "title": "Black Friday context",
+        "text": "Positive early retail shopping data provided some additional support for consumer-related names."
+      }
+    ],
+    "overall_tone": "Constructive rebound. A solid Black Friday rally, led by technology and semiconductors, closed out a volatile Thanksgiving week on a high note and delivered the strongest weekly performance for major indexes in well over a year. Attention now turns to the full trading week beginning Monday, November 30."
+  },
+  {
     "timestamp": "2026-11-26T20:00:00+00:00",
     "header": "Thursday, November 26, 2026's Report",
     "headline": "U.S. stock markets were closed on Thursday, November 26, 2026, in observance of Thanksgiving Day.",
