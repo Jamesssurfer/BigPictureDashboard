@@ -1,6 +1,90 @@
 {
   "past_2_weeks": [
     {
+      "timestamp": "2026-11-20T20:00:00+00:00",
+      "header": "Friday, November 20, 2026's Report",
+      "headline": "On Friday, November 20, 2026, U.S. stocks plunged in a sharp AI-driven sell-off.",
+      "summary": "On Friday, November 20, 2026, U.S. stocks plunged in a sharp AI-driven sell-off. The S&P 500 and Dow Jones Industrial Average both entered correction territory (more than 10% below their recent highs), the Nasdaq suffered one of its largest one-day point drops on record and turned negative for the year, and the S&P 500 extended its losing streak to seven consecutive sessions—its longest since February 2020.",
+      "us_equities": {
+        "indices": [
+          {
+            "name": "Dow Jones Industrial Average",
+            "value": "48,147.33",
+            "change": "-949.73 points",
+            "pct": "-1.9%",
+            "notes": ""
+          },
+          {
+            "name": "S&P 500",
+            "value": "6,910.39",
+            "change": "-265.44 points",
+            "pct": "-3.7%",
+            "notes": ""
+          },
+          {
+            "name": "Nasdaq Composite",
+            "value": "22,617.73",
+            "change": "-1,261.47 points",
+            "pct": "-5.3%",
+            "notes": ""
+          },
+          {
+            "name": "Russell 2000",
+            "value": "2,581.79",
+            "change": "",
+            "pct": "",
+            "notes": "down approximately 2.8%."
+          }
+        ],
+        "volatility": "",
+        "breadth": "Breadth was extremely weak, with the vast majority of stocks falling.",
+        "sectors": "",
+        "notable_movers": [],
+        "other": ""
+      },
+      "bonds": {
+        "summary": "Treasury yields edged lower as investors sought safer assets amid the equity rout. The 10-year yield moved lower during the session.",
+        "yields": [],
+        "notes": ""
+      },
+      "commodities": {
+        "summary": "Gold fell sharply (down roughly 4%). Crude oil rose modestly.",
+        "oil": "",
+        "gold": "Gold fell sharply (down roughly 4%)."
+      },
+      "currencies": {
+        "summary": "The dollar remained relatively firm. Volatility surged, with the VIX climbing more than 26% to around 35.9—its highest close in several months."
+      },
+      "global_markets": {
+        "asia": "",
+        "europe": "",
+        "summary": "Risk-off sentiment was evident internationally, with Asian markets under pressure in subsequent trading."
+      },
+      "key_drivers": [
+        {
+          "title": "Intensifying AI trade unwind",
+          "text": "Selling in AI and semiconductor stocks accelerated. Nvidia led the declines amid reports of regulatory scrutiny, while other chipmakers and AI-related names also dropped sharply. Anthropic’s post-IPO performance failed to stabilize sentiment."
+        },
+        {
+          "title": "Correction confirmed",
+          "text": "Both the S&P 500 and the Dow closed more than 10% below their recent record highs, formally entering correction territory. The Nasdaq’s heavy losses pushed it into negative territory for the year."
+        },
+        {
+          "title": "Weekly performance",
+          "text": "The major indexes posted their worst weekly percentage declines since April 2025 (or earlier for the Nasdaq). The S&P 500’s seven-day losing streak was its longest since early 2020."
+        },
+        {
+          "title": "Defensive rotation",
+          "text": "Investors rotated toward more defensive areas such as consumer staples, while growth and technology sectors absorbed the heaviest selling."
+        },
+        {
+          "title": "Volatility spike",
+          "text": "The sharp rise in the VIX reflected heightened fear and forced selling in some areas."
+        }
+      ],
+      "overall_tone": "Deeply risk-off and negative. A broad and aggressive unwind of the AI trade drove major indexes into correction territory, erased most or all of the year’s gains for key benchmarks, and produced the worst weekly performance in more than a year. Volatility rose sharply as the multi-day sell-off intensified into the weekend."
+    },
+    {
       "timestamp": "2026-11-19T20:00:00+00:00",
       "header": "Thursday, November 19, 2026's Report",
       "headline": "On Thursday, November 19, 2026, U.S. stocks fell sharply across the board.",
@@ -339,7 +423,9 @@
         }
       ],
       "overall_tone": "Risk-off and tech-led weakness. The market opened the week under pressure from ongoing Nvidia-related uncertainty and position-trimming ahead of key AI-sector events, resulting in a broad decline that erased a portion of the prior week’s rebound."
-    },
+    }
+  ],
+  "past_1_month": [
     {
       "timestamp": "2026-11-13T20:00:00+00:00",
       "header": "Friday, November 13, 2026's Report",
@@ -423,9 +509,7 @@
         }
       ],
       "overall_tone": "Mixed and cautious. The market absorbed residual Nvidia-related volatility and a sticky PPI print without a sharp sell-off, while locking in meaningful weekly gains after a turbulent stretch. Investors remain focused on the path of inflation and Federal Reserve policy heading into December."
-    }
-  ],
-  "past_1_month": [
+    },
     {
       "timestamp": "2026-11-12T20:00:00+00:00",
       "header": "Thursday, November 12, 2026's Report",
@@ -1351,7 +1435,9 @@
         }
       ],
       "overall_tone": "Tech-led decline driven by Alphabet. The major indexes fell for the first time in several sessions even as the majority of stocks rose, highlighting the continued concentration risk in a handful of mega-cap AI names. Attention remains on upcoming earnings and the sustainability of AI-driven capital spending."
-    },
+    }
+  ],
+  "past_3_months": [
     {
       "timestamp": "2026-10-28T20:00:00+00:00",
       "header": "Wednesday, October 28, 2026's Report",
@@ -1435,9 +1521,7 @@
         }
       ],
       "overall_tone": "Calm close after the Fed held rates steady. Equities posted small gains for a third straight session while the bond market absorbed the policy decision and mixed signals on the future path of rates. Attention now turns to earnings and incoming inflation data."
-    }
-  ],
-  "past_3_months": [
+    },
     {
       "timestamp": "2026-10-27T20:00:00+00:00",
       "header": "Tuesday, October 27, 2026's Report",
